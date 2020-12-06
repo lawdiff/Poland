@@ -1,3 +1,3 @@
 ## WDU20200002112 - Ustawa z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19
 
-### [WDU20082341570 < WDU20200002112 - Ustawa z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19](https://github.com/lawdiff/Poland2diff/commit/2c7eaa60abdbdc81f6868126fc76ec066bb65f37)
+### [WDU20082341570 < WDU20200002112 - Ustawa z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19](https://github.com/lawdiff/Poland-diffs/commit/be5bad63f37be5ff74f60814ca7fad4ba0e67220)
