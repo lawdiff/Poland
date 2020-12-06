@@ -1,0 +1,908 @@
+©Kancelaria Sejmu
+
+s. 1/66
+
+Dz. U. 2008 Nr 234 poz. 1570
+
+U S TAWA z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakae i chorób zakanych u ludzi
+
+Opracowano na podstawie: t.j. Dz. U. z 2020 r. poz. 1845.
+
+Rozdzial 1
+Przepisy ogólne
+Art. 1. Ustawa okrela: 1) zasady i tryb zapobiegania oraz zwalczania zakae i chorób zakanych u ludzi,
+w tym zasady i tryb rozpoznawania i monitorowania sytuacji epidemiologicznej oraz podejmowania dziala przeciwepidemicznych i zapobiegawczych w celu unieszkodliwienia ródel zakaenia, przecicia dróg szerzenia si zakae i chorób zakanych oraz uodpornienia osób podatnych na zakaenie; 2) zadania organów administracji publicznej w zakresie zapobiegania oraz zwalczania zakae i chorób zakanych u ludzi; 3) uprawnienia i obowizki wiadczeniodawców oraz osób przebywajcych na terytorium Rzeczypospolitej Polskiej w zakresie zapobiegania oraz zwalczania zakae i chorób zakanych u ludzi.
+Art. 2. Uyte w ustawie okrelenia oznaczaj: 1) badanie sanitarno-epidemiologiczne ­ badanie, w którego sklad wchodz
+badanie lekarskie, badania laboratoryjne oraz dodatkowe badania i konsultacje specjalistyczne, wykonywane w ramach nadzoru epidemiologicznego w celu wykrycia biologicznych czynników chorobotwórczych lub potwierdzenia rozpoznania choroby zakanej; 2) biologiczny czynnik chorobotwórczy ­ posiadajce zdolno wywolywania objawów chorobowych drobnoustroje komórkowe lub wytwarzane przez nie produkty, zewntrzne i wewntrzne pasoyty czlowieka lub wytwarzane przez
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 2/66
+
+nie produkty, czstki bezkomórkowe zdolne do replikacji lub przenoszenia materialu genetycznego, w tym zmodyfikowane genetycznie hodowle komórkowe lub wytwarzane przez nie produkty; 3) choroba zakana ­ choroba, która zostala wywolana przez biologiczny czynnik chorobotwórczy; 4) choroba szczególnie niebezpieczna i wysoce zakana ­ choroba zakana latwo rozprzestrzeniajca si, o wysokiej miertelnoci, powodujca szczególne zagroenie dla zdrowia publicznego i wymagajca specjalnych metod zwalczania, w tym cholera, duma, ospa prawdziwa, wirusowe gorczki krwotoczne; 5) czynnik alarmowy ­ biologiczny czynnik chorobotwórczy o szczególnej zjadliwoci lub opornoci; 6) dekontaminacja ­ proces niszczenia biologicznych czynników chorobotwórczych przez mycie, dezynfekcj i sterylizacj; 7) dezynfekcja ­ proces redukcji iloci biologicznych czynników chorobotwórczych przez zastosowanie metod fizycznych i chemicznych; 8) dochodzenie epidemiologiczne ­ wykrywanie zachorowa, czynnika etiologicznego oraz okrelanie przyczyn, ródel, rezerwuarów i mechanizmów szerzenia si choroby zakanej lub zakaenia; 9) epidemia ­ wystpienie na danym obszarze zakae lub zachorowa na chorob zakan w liczbie wyranie wikszej ni we wczeniejszym okresie albo wystpienie zakae lub chorób zakanych dotychczas niewystpujcych; 10) informacje ­ dane nieobejmujce danych osobowych w rozumieniu przepisów o ochronie danych osobowych; 10a) instytut badawczy ­ instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383); 11) izolacja ­ odosobnienie osoby lub grupy osób chorych na chorob zakan albo osoby lub grupy osób podejrzanych o chorob zakan, w celu uniemoliwienia przeniesienia biologicznego czynnika chorobotwórczego na inne osoby; 11a) izolacja w warunkach domowych ­ odosobnienie osoby chorej z przebiegiem choroby zakanej niewymagajcej bezwzgldnej hospitalizacji ze wzgldów medycznych w jej miejscu zamieszkania lub pobytu, w celu zapobieenia szerzenia si chorób szczególnie niebezpiecznych i wysoce zakanych;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 3/66
+
+12) kwarantanna ­ odosobnienie osoby zdrowej, która byla naraona na zakaenie, w celu zapobieenia szerzeniu si chorób szczególnie niebezpiecznych i wysoce zakanych;
+13) lacuch chlodniczy ­ rodki techniczne i rozwizania organizacyjne sluce utrzymaniu oraz monitorowaniu, zgodnych z zaleceniami wytwórcy warunków przechowywania, transportu i dystrybucji produktów immunologicznych w rozumieniu art. 2 pkt 30 ustawy z dnia 6 wrzenia 2001 r. ­ Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944 i 1493) w celu zachowania ich trwaloci i zapobieenia zmniejszeniu ich skutecznoci;
+14) nadzór epidemiologiczny ­ obserwacj osoby zakaonej lub podejrzanej o zakaenie, bez ograniczenia jej swobody przemieszczania si, wykonywanie bada sanitarno-epidemiologicznych u tej osoby w celu wykrycia biologicznych czynników chorobotwórczych lub potwierdzenia rozpoznania choroby zakanej oraz zebranie, analiz i interpretacj informacji o okolicznociach i skutkach zakaenia (nadzór indywidualny), jak i stale, systematyczne gromadzenie, analiz oraz interpretacj informacji o zachorowaniach lub innych procesach zachodzcych w sferze zdrowia publicznego, wykorzystywane w celu zapobiegania i zwalczania zakae lub chorób zakanych (nadzór ogólny);
+15) nadzór sentinel ­ wybiórczy nadzór epidemiologiczny, prowadzony przez wybrany podmiot lub zespól podmiotów w zakresie ich podstawowej dzialalnoci;
+16) niepodany odczyn poszczepienny ­ niepodany objaw chorobowy pozostajcy w zwizku czasowym z wykonanym szczepieniem ochronnym;
+17) nosiciel ­ osob bez objawów choroby zakanej, w której organizmie bytuj biologiczne czynniki chorobotwórcze, stanowic potencjalne ródlo zakaenia innych osób;
+18) orodek referencyjny ­ podmiot lub wyodrbnion w jego strukturze jednostk, wskazane przez ministra wlaciwego do spraw zdrowia, które uzyskaly akredytacj w zakresie przedmiotu referencyjnoci na podstawie przepisów ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodnoci i nadzoru rynku (Dz. U. z 2019 r. poz. 544 oraz z 2020 r. poz. 1086) lub akredytacj wiatowej Organizacji Zdrowia lub Europejskiego Centrum do Spraw Zapobiegania i Kontroli Chorób, realizujce zadania z zakresu diagnostyki mikrobiologicznej
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 4/66
+
+lub klinicznej, obejmujce weryfikacj rozpozna zakae i wyników bada laboratoryjnych; 19) ozdrowieniec ­ osob, u której ustpily objawy choroby zakanej; 20) podejrzany o chorob zakan ­ osob, u której wystpuj objawy kliniczne lub odchylenia od stanu prawidlowego w badaniach dodatkowych, mogce wskazywa na chorob zakan; 21) podejrzany o zakaenie ­ osob, u której nie wystpuj objawy zakaenia ani choroby zakanej, która miala styczno ze ródlem zakaenia, a charakter czynnika zakanego i okolicznoci stycznoci uzasadniaj podejrzenie zakaenia; 21a) publiczna sluba krwi ­ podmioty, o których mowa w art. 4 ust. 3 ustawy z dnia 22 sierpnia 1997 r. o publicznej slubie krwi (Dz. U. z 2019 r. poz. 1222 oraz z 2020 r. poz. 567); 22) stan epidemii ­ sytuacj prawn wprowadzon na danym obszarze w zwizku z wystpieniem epidemii w celu podjcia okrelonych w ustawie dziala przeciwepidemicznych i zapobiegawczych dla zminimalizowania skutków epidemii; 23) stan zagroenia epidemicznego ­ sytuacj prawn wprowadzon na danym obszarze w zwizku z ryzykiem wystpienia epidemii w celu podjcia okrelonych w ustawie dziala zapobiegawczych; 24) sterylizacja ­ proces zniszczenia zdolnych do namnaania si form biologicznych czynników chorobotwórczych; 25) styczno ­ bezporedni lub poredni kontakt osoby ze ródlem zakaenia, jeeli charakter tego kontaktu zagraal lub zagraa przeniesieniem na t osob biologicznych czynników chorobotwórczych; 26) szczepienie ochronne ­ podanie szczepionki przeciw chorobie zakanej w celu sztucznego uodpornienia przeciwko tej chorobie; 27) wiadczenie zdrowotne ­ wiadczenie zdrowotne w rozumieniu art. 5 pkt 40 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych (Dz. U. z 2020 r. poz. 1398, 1492, 1493 i 1578);
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 5/66
+
+28) wiadczeniodawca ­ wiadczeniodawc w rozumieniu art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych;
+29) ubezpieczony ­ ubezpieczonego w rozumieniu art. 3 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych;
+30) zabiegi sanitarne ­ dzialania sluce poprawie higieny osobistej, w tym mycie i strzyenie, higieny odziey, higieny pomieszcze, podejmowane w celu zapobiegania oraz zwalczania zakae i chorób zakanych;
+31) zagroenie epidemiczne ­ zaistnienie na danym obszarze warunków lub przeslanek wskazujcych na ryzyko wystpienia epidemii;
+32) zakaenie ­ wniknicie do organizmu i rozwój w nim biologicznego czynnika chorobotwórczego;
+33) zakaenie szpitalne ­ zakaenie, które wystpilo w zwizku z udzieleniem wiadcze zdrowotnych, w przypadku gdy choroba: a) nie pozostawala w momencie udzielania wiadcze zdrowotnych w okresie wylgania albo b) wystpila po udzieleniu wiadcze zdrowotnych, w okresie nie dluszym ni najdluszy okres jej wylgania;
+34) zaraliwo ­ zdolno biologicznego czynnika chorobotwórczego do przeycia i namnaania oraz do wywolania objawów chorobowych po przeniesieniu go do organizmu innego czlowieka lub zwierzcia;
+35) zdrowie publiczne ­ stan zdrowotny calego spoleczestwa lub jego czci, okrelany na podstawie wskaników epidemiologicznych i demograficznych;
+36) strefa zero ­ obszar, na którym wystpil stan epidemii, znajdujcy si bezporednio wokól ogniska wirusa, podlegajcy ograniczeniom, w szczególnoci zakazom, nakazom oraz rodkom kontroli;
+37) strefa buforowa ­ obszar wokól strefy zero, podlegajcy ograniczeniom, w szczególnoci zakazom lub nakazom dotyczcym przemieszczania si ludzi;
+38) strefa zagroenia ­ obszar, na którym moliwe jest ryzyko wystpienia stanu epidemii;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 6/66
+
+39) zagroony obszar ­ obszar jednej lub kilku jednostek podzialu terytorialnego kraju lub obszar okrelony w sposób inny ni przez odniesienie do jednostek podzialu terytorialnego kraju.
+40) (uchylony)
+Art. 3. 1. Przepisy ustawy stosuje si do zakae i chorób zakanych, których wykaz jest okrelony w zalczniku do ustawy, oraz biologicznych czynników chorobotwórczych wywolujcych te zakaenia i choroby.
+2. W razie niebezpieczestwa szerzenia si zakaenia lub choroby zakanej innych ni wymienione w wykazie, o którym mowa w ust. 1, minister wlaciwy do spraw zdrowia moe oglosi, w drodze rozporzdzenia, zakaenie lub chorob zakan oraz, o ile jest znany, wywolujcy je biologiczny czynnik chorobotwórczy, a jeeli to konieczne, szczególny sposób postpowania wiadczeniodawców i osób naraonych na zakaenie lub zachorowanie przez czas okrelony w rozporzdzeniu.
+3. Do zakaenia lub choroby zakanej oraz wywolujcego je biologicznego czynnika chorobotwórczego okrelonych na podstawie ust. 2 stosuje si przepisy ustawy.
+4. Minister wlaciwy do spraw zdrowia moe okreli, w drodze rozporzdzenia: 1) kryteria rozpoznawania, na potrzeby nadzoru epidemiologicznego, zakaenia lub
+choroby zakanej, w tym choroby szczególnie niebezpiecznej i wysoce zakanej, 2) metody zapobiegania zakaeniu lub chorobie zakanej oraz lekoopornoci
+biologicznych czynników chorobotwórczych wywolujcych te choroby, 3) rodzaje bada laboratoryjnych niezbdnych do rozpoznania oraz identyfikacji
+biologicznych czynników chorobotwórczych ­ majc na wzgldzie zapewnienie poprawnoci rozpoznawania zakae i chorób zakanych, potrzeby nadzoru epidemiologicznego oraz ochron zdrowia publicznego.
+Art. 4. 1. Rada Ministrów moe okreli, w drodze rozporzdzenia, programy zapobiegania i zwalczania okrelonych zakae lub chorób zakanych oraz lekoopornoci biologicznych czynników chorobotwórczych, wynikajce z sytuacji epidemiologicznej kraju lub z koniecznoci dostosowania do programów midzynarodowych, majc na wzgldzie ich skuteczne wykonywanie oraz zapewnienie objcia ochron zdrowotn osób, których szczególne naraenie na zakaenie wynika z sytuacji epidemiologicznej.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 7/66
+
+2. Koszty realizacji zada objtych programami, o których mowa w ust. 1, s finansowane z budetu pastwa odpowiednio z czci, których dysponentami s wlaciwi ministrowie realizujcy te programy.
+3. Zadania objte programami, o których mowa w ust. 1, s realizowane przez podmioty wskazane w tych programach, na podstawie umów zawieranych przez ministrów, o których mowa w ust. 2, z tymi podmiotami, chyba e obowizek ich realizacji wynika z odrbnych przepisów.
+Art. 5. 1. Osoby przebywajce na terytorium Rzeczypospolitej Polskiej s obowizane na zasadach okrelonych w ustawie do: 1) poddawania si:
+a) zabiegom sanitarnym, b) szczepieniom ochronnym, c) poekspozycyjnemu profilaktycznemu stosowaniu leków, d) badaniom sanitarno-epidemiologicznym, w tym równie postpowaniu
+majcemu na celu pobranie lub dostarczenie materialu do tych bada, e) nadzorowi epidemiologicznemu, f) kwarantannie, g) leczeniu, h) hospitalizacji, i) izolacji, j) izolacji w warunkach domowych; 2) zaniechania wykonywania prac, przy wykonywaniu których istnieje moliwo przeniesienia zakaenia lub choroby zakanej na inne osoby ­ jeeli s osobami zakaonymi, chorymi na chorob zakan lub nosicielami; 3) stosowania si do nakazów i zakazów organów Pastwowej Inspekcji Sanitarnej slucych zapobieganiu oraz zwalczaniu zakae i chorób zakanych; 4) udzielania danych i informacji: a) organom Pastwowej Inspekcji Sanitarnej, Wojskowej Inspekcji Sanitarnej,
+Inspekcji Weterynaryjnej, Wojskowej Inspekcji Weterynaryjnej, Inspekcji Ochrony rodowiska, jednostkom, o których mowa w art. 30 ust. 1, oraz orodkom referencyjnym i instytutom badawczym ­ niezbdnych do prowadzenia nadzoru epidemiologicznego nad zakaeniami i chorobami zakanymi i zapobiegania oraz zwalczania zakae i chorób zakanych,
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 8/66
+
+b) wlaciwym pastwowym inspektorom sanitarnym ­ niezbdnych do prowadzenia nadzoru epidemiologicznego nad niepodanymi odczynami poszczepiennymi,
+c) organom Pastwowej Inspekcji Sanitarnej ­ niezbdnych do sprawowania nadzoru nad realizacj obowizków, o których mowa w pkt 1­3.
+2. W przypadku osoby nieposiadajcej pelnej zdolnoci do czynnoci prawnych odpowiedzialno za wypelnienie obowizków, o których mowa w ust. 1, ponosi osoba, która sprawuje prawn piecz nad osob maloletni lub bezradn, albo opiekun faktyczny w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2020 r. poz. 849).
+3. (uchylony)
+Rozdzial 2
+Badania sanitarno-epidemiologiczne
+Art. 6. 1. Obowizkowym badaniom sanitarno-epidemiologicznym, okrelonym na podstawie art. 10 ust. 2 pkt 2, podlegaj: 1) podejrzani o zakaenie lub chorob zakan; 2) noworodki, niemowlta i kobiety w ciy, podejrzane o zakaenie lub chorob
+zakan mogc si szerzy z matki na plód lub dziecko; 3) nosiciele, ozdrowiecy oraz osoby, które byly naraone na zakaenie przez
+styczno z osobami zakaonymi, chorymi lub materialem zakanym; 4) uczniowie, studenci i doktoranci ksztalccy si do wykonywania prac, przy
+wykonywaniu których istnieje moliwo przeniesienia zakaenia lub choroby zakanej na inne osoby; 5) osoby podejmujce lub wykonujce prace, przy wykonywaniu których istnieje moliwo przeniesienia zakaenia lub choroby zakanej na inne osoby, nieposiadajce aktualnego orzeczenia lekarskiego o zdolnoci do wykonywania prac, przy wykonywaniu których istnieje moliwo przeniesienia zakaenia lub choroby zakanej na inne osoby. 2. Na obowizkowe badania sanitarno-epidemiologiczne, okrelone na podstawie art. 10 ust. 2 pkt 2, kieruje: 1) osoby, o których mowa w ust. 1 pkt 1­3 ­ wlaciwy dla ich miejsca pobytu pastwowy powiatowy inspektor sanitarny;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 9/66
+
+2) osoby, o których mowa w ust. 1 pkt 4 ­ kierujcy szkol albo rektor uczelni lub osoba przez nich upowaniona;
+3) osoby, o których mowa w ust. 1 pkt 5 ­ pracodawca albo zlecajcy wykonanie prac. 2a. W przypadku osób poszukujcych zatrudnienia lub innej pracy zarobkowej,
+przy wykonywaniu której istnieje moliwo przeniesienia zakaenia lub choroby zakanej na inne osoby, badanie sanitarno-epidemiologiczne jest wykonywane na wniosek tej osoby. Osoba poddajca si badaniu wskazuje, jakiego rodzaju prac ma dotyczy badanie sanitarno-epidemiologiczne i wydawane na jego podstawie orzeczenie lekarskie dla celów sanitarno-epidemiologicznych.
+3. Wykonane badania sanitarno-epidemiologiczne oraz ich wyniki s odnotowywane w dokumentacji medycznej pacjenta, prowadzonej w sposób i w formach, okrelonych na podstawie art. 10 ust. 2 pkt 3 i 4.
+Art. 7. 1. Badania lekarskie u osób, o których mowa w art. 6 ust. 1 i ust. 2a, przeprowadzaj lekarze podstawowej opieki zdrowotnej, w rozumieniu przepisów ustawy z dnia 27 padziernika 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2020 r. poz. 172 i 1493), lub lekarze wykonujcy zadania sluby medycyny pracy, w rozumieniu przepisów ustawy z dnia 27 czerwca 1997 r. o slubie medycyny pracy (Dz. U. z 2019 r. poz. 1175).
+2. Lekarze, o których mowa w ust. 1, wydaj oraz przekazuj osobie badanej, o której mowa w art. 6 ust. 1 pkt 4 i 5 i ust. 2a, oraz pracodawcy albo osobie zlecajcej wykonanie prac orzeczenie lekarskie: 1) o zdolnoci do wykonywania prac, przy wykonywaniu których istnieje
+moliwo przeniesienia zakaenia lub choroby zakanej na inne osoby; 2) o czasowych lub trwalych przeciwwskazaniach do wykonywania prac, przy
+wykonywaniu których istnieje moliwo przeniesienia zakaenia lub choroby zakanej na inne osoby. 3. Lekarze, o których mowa w ust. 1, wpisuj tre orzeczenia lekarskiego, o którym mowa w ust. 2, do karty bada do celów sanitarno-epidemiologicznych. 4. Badania laboratoryjne u osób, o których mowa w art. 6 ust. 1 i ust. 2a, przeprowadzaj, akredytowane w zakresie przedmiotu badania na podstawie przepisów ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodnoci i nadzoru rynku, laboratoria:
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 10/66
+
+1) Pastwowej Inspekcji Sanitarnej, Wojskowej Inspekcji Sanitarnej lub inne laboratoria, na podstawie umów zawieranych z tymi organami;
+2) jednostek wlaciwych w zakresie chorób pluc i grulicy, w przypadku bada w kierunku grulicy, na podstawie umów zawieranych z wlaciwymi miejscowo organami, o których mowa w pkt 1. 5. Organy, o których mowa w ust. 4 pkt 1, dokonuj wyboru laboratoriów na
+podstawie przepisów o zamówieniach publicznych, z wylczeniem laboratoriów tych organów.
+Art. 8. 1. Koszty bada sanitarno-epidemiologicznych, z wylczeniem laboratoryjnych bada sanitarno-epidemiologicznych, wykonywanych u: 1) osób, o których mowa w art. 6 ust. 1 pkt 1­4, bdcych ubezpieczonymi, s
+finansowane na zasadach okrelonych w przepisach o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych; 2) osób, o których mowa w art. 6 ust. 1 pkt 1­4, nieposiadajcych uprawnie z tytulu ubezpieczenia zdrowotnego, s finansowane z budetu pastwa z czci, której dysponentem jest minister wlaciwy do spraw zdrowia. 2. Przepisy, o których mowa w ust. 1, nie naruszaj zasad finansowania okrelonych w tym zakresie w innych przepisach. 3. Koszty laboratoryjnego badania sanitarno-epidemiologicznego wykonywanego u osób, o których mowa w art. 6 ust. 1 pkt 1­4, s finansowane z budetu pastwa z czci, której dysponentem jest wojewoda, bez wzgldu na uprawnienia z tytulu ubezpieczenia zdrowotnego. 4. Koszty bada sanitarno-epidemiologicznych wykonywanych u osób, o których mowa w art. 6 ust. 1 pkt 5, s finansowane przez pracodawc lub zlecajcego wykonanie prac. 4a. Koszty bada sanitarno-epidemiologicznych wykonywanych u osób, o których mowa w art. 6 ust. 2a, s finansowane przez osob wnioskujc o ich przeprowadzenie. 5. (uchylony)
+Art. 9. 1. W przypadku koniecznoci potwierdzenia prawidlowoci rozpoznania zakaenia, choroby zakanej lub identyfikacji biologicznych czynników
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 11/66
+
+chorobotwórczych dla celów nadzoru epidemiologicznego wyniki bada laboratoryjnych poddaje si weryfikacji.
+2. Weryfikacj wyników bada laboratoryjnych, o której mowa w ust. 1, przeprowadzaj: 1) wskazane przez ministra wlaciwego do spraw zdrowia podlegle mu jednostki; 2) orodki referencyjne lub instytuty badawcze na podstawie umowy zawartej
+z ministrem wlaciwym do spraw zdrowia. 3. Minister wlaciwy do spraw zdrowia, wskazujc jednostk, o której mowa w ust. 2 pkt 1, lub zawierajc umow z orodkiem referencyjnym lub instytutem badawczym, o których mowa w ust. 2 pkt 2, okrela w szczególnoci: 1) przedmiot weryfikacji; 2) zakres wymaganych bada laboratoryjnych i metod referencyjnych oraz sposób ich dokumentowania; 3) rodzaje analiz dla celów epidemiologicznych; 4) sposób i terminy udostpniania wyników przeprowadzonej weryfikacji; 5) tryb kontroli jakoci wykonywanych bada laboratoryjnych; 6) tryb finansowania i terminy rozlicze z tytulu czynnoci wykonanych w ramach weryfikacji wyników bada laboratoryjnych, w tym kosztów transportu wyizolowanego biologicznego czynnika chorobotwórczego lub innego materialu do bada. 4. Koszty weryfikacji wyników bada laboratoryjnych dla celów nadzoru epidemiologicznego, w tym koszty transportu wyizolowanego biologicznego czynnika chorobotwórczego lub innego materialu do bada, s finansowane z budetu pastwa z czci, której dysponentem jest minister wlaciwy do spraw zdrowia. 5. Minister wlaciwy do spraw zdrowia oglasza, w drodze obwieszczenia, wykaz podmiotów, o których mowa w ust. 2, które przeprowadzaj weryfikacj wyników bada laboratoryjnych dla celów nadzoru epidemiologicznego oraz ich wlaciwo w zakresie weryfikacji wyników bada laboratoryjnych.
+Art. 10. 1. Osoby, u których orzeczono czasowe lub trwale przeciwwskazania do wykonywania prac, okrelonych na podstawie ust. 2 pkt 5, nie mog wykonywa tych prac. Pracodawca lub zlecajcy wykonanie prac jest obowizany, z zachowaniem poufnoci, niezwlocznie odsun pracownika lub wykonujcego prace od wykonywania tych prac.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 12/66
+
+2. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia: 1) zakaenia i choroby zakane, w przypadku wystpienia których lub podejrzenia
+wystpienia przeprowadza si obowizkowe badania sanitarno-epidemiologiczne, 2) rodzaje obowizkowych bada sanitarno-epidemiologicznych oraz terminy przeprowadzania tych bada, 3) sposób dokumentowania bada oraz sposób dokumentowania wyników tych bada, 4) wzór karty bada dla celów sanitarno-epidemiologicznych i wzór orzeczenia lekarskiego, o których mowa w art. 7 ust. 2 i 3, 5) rodzaje prac, przy wykonywaniu których istnieje moliwo przeniesienia zakaenia lub choroby zakanej na inne osoby, 6) sposób postpowania z osob, u której stwierdzono przeciwwskazania do wykonywania prac, o których mowa w pkt 5 ­ majc na uwadze ochron zdrowia publicznego oraz uwzgldniajc rodzaje zakae i chorób zakanych, wywolujce je biologiczne czynniki chorobotwórcze i drogi ich szerzenia si.
+Rozdzial 3
+Zakaenia zwizane z udzielaniem wiadcze zdrowotnych oraz innych czynnoci, w trakcie wykonywania których dochodzi do naruszenia cigloci
+tkanek ludzkich
+Art. 11. 1. Kierownicy podmiotów leczniczych oraz inne osoby udzielajce wiadcze zdrowotnych s obowizani do podejmowania dziala zapobiegajcych szerzeniu si zakae i chorób zakanych.
+2. Dzialania, o których mowa w ust. 1, obejmuj w szczególnoci: 1) ocen ryzyka wystpienia zakaenia zwizanego z wykonywaniem wiadcze
+zdrowotnych; 2) monitorowanie czynników alarmowych i zakae zwizanych z udzielaniem
+wiadcze zdrowotnych w zakresie wykonywanych wiadcze; 3) opracowanie, wdroenie i nadzór nad procedurami zapobiegajcymi zakaeniom
+i chorobom zakanym zwizanym z udzielaniem wiadcze zdrowotnych, w tym dekontaminacji:
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 13/66
+
+a) skóry i blon luzowych lub innych tkanek, b) wyrobów medycznych, wyrobów medycznych do diagnostyki in vitro,
+wyposaenia wyrobów medycznych, wyposaenia wyrobów medycznych do diagnostyki in vitro i aktywnych wyrobów medycznych do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493), oraz powierzchni pomieszcze i urzdze; 4) stosowanie rodków ochrony indywidualnej i zbiorowej w celu zapobieenia przeniesieniu na inne osoby biologicznych czynników chorobotwórczych; 5) wykonywanie bada laboratoryjnych oraz analiz lokalnej sytuacji epidemiologicznej w celu optymalizacji profilaktyki i terapii antybiotykowej; 6) prowadzenie kontroli wewntrznej w zakresie realizacji dziala, o których mowa w ust. 1.
+Art. 12. 1. Kierownicy podmiotów leczniczych oraz inne osoby udzielajce wiadcze zdrowotnych prowadz dokumentacj realizacji dziala, o których mowa w art. 11.
+2. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia, sposób dokumentowania realizacji dziala, o których mowa w art. 11, oraz warunki i okres przechowywania tej dokumentacji, uwzgldniajc skuteczno zapobiegania szerzeniu si zakae i chorób zakanych.
+Art. 13. 1. Realizacja dziala, o których mowa w art. 11 i 12, oraz prowadzenie dokumentacji tych dziala, w tym wyniki kontroli wewntrznej, podlegaj, zgodnie z wlaciwoci, kontroli organów Pastwowej Inspekcji Sanitarnej.
+2. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia, zakres i sposób prowadzenia kontroli wewntrznej, o której mowa w art. 11 ust. 2 pkt 6, czstotliwo jej przeprowadzania, sposób jej dokumentowania, a take warunki udostpniania i przechowywania tej dokumentacji, majc na wzgldzie zapewnienie skutecznoci zapobiegania szerzeniu si zakae i chorób zakanych oraz cele nadzoru epidemiologicznego.
+Art. 14. 1. Kierownicy podmiotów leczniczych wykonujcych dzialalno lecznicz w rodzaju wiadczenia szpitalne s obowizani do wdroenia i zapewnienia
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 14/66
+
+funkcjonowania systemu zapobiegania i zwalczania zakae szpitalnych, obejmujcego: 1) powolanie i nadzór nad dzialalnoci zespolu i komitetu kontroli zakae
+szpitalnych; 2) ocen ryzyka i monitorowanie wystpowania zakae szpitalnych i czynników
+alarmowych; 3) organizacj udzielania wiadcze zdrowotnych, w sposób zapewniajcy:
+a) zapobieganie zakaeniom szpitalnym i szerzeniu si czynników alarmowych,
+b) warunki izolacji pacjentów z zakaeniem lub chorob zakan oraz pacjentów szczególnie podatnych na zakaenia szpitalne,
+c) moliwo wykonywania bada laboratoryjnych w cigu calej doby, d) wykonywanie bada laboratoryjnych, umoliwiajcych identyfikacj
+biologicznych czynników chorobotwórczych wywolujcych zakaenia i choroby zakane, oraz ich weryfikacj przez podmioty, o których mowa w art. 9 ust. 2, e) ograniczenie narastania lekoopornoci biologicznych czynników chorobotwórczych w wyniku niewlaciwego stosowania profilaktyki i terapii antybiotykowej; 4) monitorowanie i rejestracj zakae szpitalnych i czynników alarmowych; 5) sporzdzanie i przekazywanie wlaciwemu pastwowemu inspektorowi sanitarnemu raportów o biecej sytuacji epidemiologicznej szpitala; 6) zglaszanie w cigu 24 godzin potwierdzonego epidemicznego wzrostu liczby zakae szpitalnych wlaciwemu pastwowemu inspektorowi sanitarnemu. 2. Kierownicy podmiotów leczniczych wykonujcych dzialalno lecznicz w rodzaju wiadczenia szpitalne s obowizani do gromadzenia w szpitalu informacji o zakaeniach szpitalnych i czynnikach alarmowych oraz prowadzenia rejestru zakae szpitalnych i czynników alarmowych. 3. W odniesieniu do podmiotów leczniczych dla osób pozbawionych wolnoci, wykonujcych dzialalno lecznicz w rodzaju wiadczenia szpitalne, do powolania zespolu i komitetu kontroli zakae szpitalnych s obowizani dyrektorzy wlaciwych zakladów karnych i aresztów ledczych. 4. Informacje o zakaeniach szpitalnych i czynnikach alarmowych zawieraj:
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 15/66
+
+1) rozpoznanie kliniczne zakaenia szpitalnego lub czynnika alarmowego; 2) charakterystyk podstawowych objawów klinicznych; 3) okolicznoci wystpienia zakaenia, zachorowania lub zgonu z powodu
+zakaenia szpitalnego lub czynnika alarmowego, ze szczególnym uwzgldnieniem czynników ryzyka oraz charakterystyki biologicznego czynnika zakanego, oraz inne informacje niezbdne do sprawowania nadzoru epidemiologicznego, zgodnie z zasadami wspólczesnej wiedzy medycznej. 5. Rejestr zawiera nastpujce dane osób, u których rozpoznano zakaenie szpitalne lub czynnik alarmowy: 1) imi i nazwisko; 2) dat urodzenia; 3) numer PESEL, a w przypadku gdy osobie nie nadano tego numeru ­ seri i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest moliwe ustalenie danych osobowych; 4) ple; 5) adres miejsca zamieszkania; 6) rozpoznanie kliniczne zakaenia szpitalnego lub czynnika alarmowego oraz charakterystyk podstawowych objawów klinicznych oraz okolicznoci wystpienia zakaenia, zachorowania lub zgonu z powodu zakaenia szpitalnego lub czynnika alarmowego, ze szczególnym uwzgldnieniem czynników ryzyka oraz charakterystyki biologicznego czynnika chorobotwórczego, oraz inne informacje niezbdne do sprawowania nadzoru epidemiologicznego, zgodnie z zasadami wspólczesnej wiedzy medycznej. 6. Rejestr zakae szpitalnych i czynników alarmowych moe by prowadzony w formie papierowej lub w systemie elektronicznym, a dane w nim zgromadzone s udostpniane podmiotom, o których mowa w art. 30 ust. 1. 7. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia: 1) list czynników alarmowych, 2) sposób prowadzenia rejestru zakae szpitalnych i czynników alarmowych, udostpniania danych nim objtych oraz okres ich przechowywania, 3) wzory oraz sposób sporzdzania raportów o biecej sytuacji epidemiologicznej szpitala, o których mowa w ust. 1 pkt 5, oraz tryb i terminy ich przekazywania wlaciwemu pastwowemu inspektorowi sanitarnemu
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 16/66
+
+­ majc na wzgldzie zapewnienie skutecznoci zapobiegania szerzeniu si zakae i chorób zakanych oraz cele nadzoru epidemiologicznego.
+Art. 15. 1. W sklad zespolu kontroli zakae szpitalnych wchodz: 1) lekarz jako przewodniczcy zespolu; 2) pielgniarka lub polona jako specjalista do spraw epidemiologii lub higieny
+i epidemiologii, w liczbie nie mniejszej ni 1 na 200 lóek szpitalnych; 3) diagnosta laboratoryjny jako specjalista do spraw mikrobiologii, jeeli lekarz,
+wymieniony w pkt 1, nie posiada specjalizacji z dziedziny mikrobiologii lekarskiej. 2. Do zada zespolu kontroli zakae szpitalnych naley: 1) opracowywanie i aktualizacja systemu zapobiegania i zwalczania zakae szpitalnych; 2) prowadzenie kontroli wewntrznej, o której mowa w art. 11 ust. 2 pkt 6, oraz przedstawianie wyników i wniosków z tej kontroli kierownikowi szpitala i komitetowi zakae szpitalnych; 3) szkolenie personelu w zakresie kontroli zakae szpitalnych; 4) konsultowanie osób podejrzanych o zakaenie lub chorob zakan oraz tych, u których rozpoznano zakaenie lub chorob zakan. 3. W sklad komitetu kontroli zakae szpitalnych wchodz pracownicy szpitala: 1) kierownik szpitala lub jego przedstawiciel oraz wyznaczeni przez niego kierownicy komórek organizacyjnych szpitala, w tym dzialu diagnostyki mikrobiologicznej, centralnej sterylizatorni, apteki szpitalnej ­ jeeli szpital posiada takie komórki organizacyjne; 2) przewodniczcy oraz czlonkowie zespolu kontroli zakae szpitalnych; 3) osoba kierujca prac pielgniarek w szpitalu; 4) lekarz wykonujcy zadania sluby medycyny pracy w rozumieniu przepisów ustawy z dnia 27 czerwca 1997 r. o slubie medycyny pracy. 4. Do zada komitetu kontroli zakae szpitalnych naley: 1) opracowywanie planów i kierunków systemu zapobiegania i zwalczania zakae szpitalnych; 2) ocena wyników kontroli wewntrznej przedstawianych przez zespól kontroli zakae szpitalnych;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 17/66
+
+3) opracowywanie i aktualizacja standardów farmakoprofilaktyki i farmakoterapii zakae i chorób zakanych w szpitalu. 5. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia,
+wymagane kwalifikacje czlonków zespolu kontroli zakae szpitalnych, uwzgldniajc konieczno realizacji zada zespolu kontroli zakae szpitalnych.
+Art. 16. 1. Osoby inne ni udzielajce wiadcze zdrowotnych podejmujce czynnoci, w trakcie wykonywania których dochodzi do naruszenia cigloci tkanek ludzkich, s obowizane do wdroenia i stosowania procedur zapewniajcych ochron przed zakaeniami oraz chorobami zakanymi.
+2. Procedury, o których mowa w ust. 1, powinny regulowa sposób postpowania przy wykonywaniu czynnoci, w trakcie których dochodzi do naruszenia cigloci tkanek ludzkich, zasady stosowania sprztu poddawanego sterylizacji oraz sposoby przeprowadzania dezynfekcji skóry i blon luzowych oraz dekontaminacji pomieszcze i urzdze.
+3. Na wniosek podmiotu obowizanego do wdroenia i stosowania procedur, o których mowa w ust. 1, pastwowy powiatowy inspektor sanitarny opiniuje te procedury.
+Rozdzial 4
+Szczepienia ochronne
+Art. 17. 1. Osoby, okrelone na podstawie ust. 10 pkt 2, s obowizane do poddawania si szczepieniom ochronnym przeciw chorobom zakanym okrelonym na podstawie ust. 10 pkt 1, zwanym dalej ,,obowizkowymi szczepieniami ochronnymi".
+1a. Osoby przebywajce na terytorium Rzeczypospolitej Polskiej przez okres krótszy ni trzy miesice s zwolnione z obowizku poddawania si obowizkowym szczepieniom ochronnym, z wyjtkiem szczepie poekspozycyjnych.
+2. Wykonanie obowizkowego szczepienia ochronnego jest poprzedzone lekarskim badaniem kwalifikacyjnym w celu wykluczenia przeciwwskaza do wykonania obowizkowego szczepienia ochronnego.
+3. Obowizkowego szczepienia ochronnego nie mona przeprowadzi, jeeli midzy lekarskim badaniem kwalifikacyjnym przeprowadzonym w celu wykluczenia
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 18/66
+
+przeciwwskaza do szczepienia a tym szczepieniem uplynlo 24 godziny od daty i godziny wskazanej w zawiadczeniu, o którym mowa w ust. 4.
+4. Po przeprowadzonym lekarskim badaniu kwalifikacyjnym lekarz wydaje zawiadczenie ze wskazaniem daty i godziny przeprowadzonego badania.
+5. W przypadku gdy lekarskie badanie kwalifikacyjne daje podstawy do dlugotrwalego odroczenia obowizkowego szczepienia ochronnego, lekarz kieruje osob objt obowizkiem szczepienia ochronnego do konsultacji specjalistycznej.
+6. Obowizkowe szczepienia ochronne przeprowadzaj lekarze lub felczerzy, pielgniarki, polone i higienistki szkolne, posiadajcy kwalifikacje, okrelone na podstawie ust. 10 pkt 3.
+7. Osoby wystawiajce zawiadczenie o urodzeniu ywym s obowizane do zaloenia karty uodpornienia oraz ksieczki szczepie dziecka.
+8. Osoby przeprowadzajce szczepienia ochronne: 1) prowadz dokumentacj medyczn dotyczc obowizkowych szczepie
+ochronnych, w tym przechowuj karty uodpornienia oraz dokonuj wpisów potwierdzajcych wykonanie szczepienia; 2) sporzdzaj sprawozdania z przeprowadzonych obowizkowych szczepie ochronnych oraz sprawozdania ze stanu zaszczepienia osób objtych profilaktyczn opiek zdrowotn, które przekazuj pastwowemu powiatowemu inspektorowi sanitarnemu. 9. Obowizkiem lekarza sprawujcego profilaktyczn opiek zdrowotn jest powiadomienie osoby obowizanej do poddania si obowizkowym szczepieniom ochronnym lub osoby sprawujcej prawn piecz nad osob maloletni lub bezradn albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, o obowizku poddania si tym szczepieniom, a take poinformowanie o szczepieniach zalecanych. 10. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia: 1) wykaz chorób zakanych objtych obowizkiem szczepie ochronnych, 2) osoby lub grupy osób obowizane do poddawania si obowizkowym szczepieniom ochronnym przeciw chorobom zakanym, wiek i inne okolicznoci stanowice przeslank do naloenia obowizku szczepie ochronnych na te osoby, 3) kwalifikacje osób przeprowadzajcych szczepienia ochronne,
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 19/66
+
+4) sposób przeprowadzania szczepie ochronnych, 5) tryb przeprowadzania konsultacji specjalistycznej, o której mowa w ust. 5, 6) wzory zawiadczenia, o którym mowa w ust. 4, ksieczki szczepie oraz karty
+uodpornienia, 7) sposób prowadzenia dokumentacji, o której mowa w ust. 8 pkt 1, i jej obiegu, 8) wzory sprawozda z przeprowadzonych obowizkowych szczepie ochronnych
+oraz tryb i terminy ich przekazywania ­ uwzgldniajc dane epidemiologiczne dotyczce zachorowa, aktualn wiedz medyczn oraz zalecenia wiatowej Organizacji Zdrowia.
+11. Glówny Inspektor Sanitarny oglasza w formie komunikatu, w dzienniku urzdowym ministra wlaciwego do spraw zdrowia, Program Szczepie Ochronnych na dany rok, ze szczególowymi wskazaniami dotyczcymi stosowania poszczególnych szczepionek, wynikajcymi z aktualnej sytuacji epidemiologicznej, przepisów wydanych na podstawie ust. 10 i art. 19 ust. 10 oraz zalece, w terminie do dnia 31 padziernika roku poprzedzajcego realizacj tego programu.
+Art. 18. 1. Obowizkowe szczepienia ochronne i poprzedzajce ich wykonanie lekarskie badania kwalifikacyjne, a take konsultacje specjalistyczne u ubezpieczonych oraz osób nieposiadajcych uprawnie z tytulu ubezpieczenia zdrowotnego, przeprowadzaj wiadczeniodawcy, z którymi Narodowy Fundusz Zdrowia zawarl umowy o udzielanie tych wiadcze.
+2. Koszty przeprowadzenia obowizkowych szczepie ochronnych i lekarskich bada kwalifikacyjnych oraz konsultacji specjalistycznych, o których mowa w ust. 1, ubezpieczonych s finansowane na zasadach okrelonych w przepisach o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych.
+3. Koszty przeprowadzenia obowizkowych szczepie ochronnych i lekarskich bada kwalifikacyjnych oraz konsultacji specjalistycznych, o których mowa w ust. 1, osób nieposiadajcych uprawnie z tytulu ubezpieczenia zdrowotnego s finansowane z budetu pastwa z czci, której dysponentem jest minister wlaciwy do spraw zdrowia.
+4. Jeeli dana osoba podda si lekarskiemu badaniu kwalifikacyjnemu i obowizkowemu szczepieniu ochronnemu oraz konsultacji specjalistycznej, o których mowa w ust. 1, u innego wiadczeniodawcy ni okrelony w ust. 1, ponosi
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 20/66
+
+koszt badania kwalifikacyjnego, koszt szczepionki, koszty przeprowadzenia szczepienia i konsultacji specjalistycznej.
+5. Szczepionki sluce do przeprowadzania obowizkowych szczepie ochronnych zakupuje minister wlaciwy do spraw zdrowia zgodnie z przepisami o zamówieniach publicznych.
+6. Stacje sanitarno-epidemiologiczne ustalaj roczne zapotrzebowanie na szczepionki, przechowuj szczepionki i zaopatruj w nie wiadczeniodawców prowadzcych szczepienia.
+6a. Podmiotami obowizanymi do sporzdzania ilociowego zapotrzebowania na szczepionki sluce do przeprowadzania obowizkowych szczepie ochronnych wraz z harmonogramem dostaw szczepionek oraz do sporzdzania raportów o rodzajach, liczbie, numerach seryjnych oraz terminach wanoci posiadanych szczepionek s organy Pastwowej Inspekcji Sanitarnej. Podmiotem obowizanym do wykonywania sprawozdawczoci z realizacji harmonogramów dostaw szczepionek jest dystrybutor centralny wyznaczony przez ministra wlaciwego do spraw zdrowia.
+6b. Podmiotami odpowiedzialnymi za dystrybucj i przechowywanie szczepionek slucych do przeprowadzania obowizkowych szczepie ochronnych, od których wymaga si przestrzegania Dobrej Praktyki Dystrybucyjnej w rozumieniu przepisów prawa farmaceutycznego i bezpieczestwa obrotu szczepionkami, s: dystrybutor centralny wyznaczony przez ministra wlaciwego do spraw zdrowia, wojewódzkie stacje sanitarno-epidemiologiczne i powiatowe stacje sanitarno-epidemiologiczne.
+7. Koszty zakupu szczepionek, o których mowa w ust. 5, s finansowane z budetu pastwa z czci, której dysponentem jest minister wlaciwy do spraw zdrowia.
+8. Szczepionki zakupione przez ministra wlaciwego do spraw zdrowia s transportowane i przechowywane z zachowaniem lacucha chlodniczego oraz na zasadach okrelonych w przepisach prawa farmaceutycznego.
+9. Jeeli dana osoba podda si obowizkowemu szczepieniu ochronnemu, o którym mowa w ust. 1, z zastosowaniem szczepionki innej ni ta, o której mowa w ust. 5, ponosi koszt zakupu szczepionki.
+10. (uchylony) 11. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia:
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 21/66
+
+1) podmioty zobowizane do sporzdzania ilociowego zapotrzebowania na szczepionki sluce do przeprowadzania szczepie obowizkowych wraz z harmonogramem dostaw szczepionek, przechowywania i dystrybucji tych szczepionek,
+2) zadania w zakresie sporzdzania ilociowego zapotrzebowania na szczepionki sluce do przeprowadzania szczepie obowizkowych wraz z harmonogramem dostaw, przechowywania i dystrybucji szczepionek slucych do przeprowadzania szczepie obowizkowych wraz ze wskazaniem podmiotów odpowiedzialnych za ich realizacj oraz sprawozdawczoci z realizacji raportów z rodzajów, liczby posiadanych szczepionek, numerów seryjnych oraz terminów wanoci,
+3) sposób i terminy wykonywania zada, o których mowa w pkt 2 ­ majc na wzgldzie konieczno stworzenia stalego systemu zaopatrzenia w szczepionki sluce do przeprowadzania szczepie obowizkowych podmiotów przechowujcych i przeprowadzajcych szczepienia ochronne oraz wymagania Dobrej Praktyki Dystrybucyjnej w rozumieniu przepisów prawa farmaceutycznego i bezpieczestwa obrotu szczepionkami.
+Art. 18a. 1. Ustanawia si rezerw szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystpienia zagroenia epidemicznego lub epidemii.
+2. Szczepionki oraz inne immunologiczne produkty lecznicze, stosowane w razie wystpienia zagroenia epidemicznego lub epidemii, kupuje minister wlaciwy do spraw zdrowia zgodnie z przepisami o zamówieniach publicznych.
+3. Koszty zakupu produktów leczniczych, o których mowa w ust. 2, s finansowane z budetu pastwa z czci, której dysponentem jest minister wlaciwy do spraw zdrowia.
+4. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia: 1) sklad, wielko i sposób przechowywania rezerwy, o której mowa w ust. 1, 2) tryb uruchamiania rezerwy, o której mowa w ust. 1, 3) sposób dystrybucji produktów leczniczych uruchomionych z rezerwy, o której
+mowa w ust. 1,
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 22/66
+
+4) sposób postpowania z produktami leczniczymi, o których mowa w ust. 2, stanowicymi rezerw, o której mowa w ust. 1, dla których kocz si terminy wanoci
+­ uwzgldniajc konieczno zapewnienia bezpieczestwa zdrowotnego.
+Art. 19. 1. Osoby lub grupy osób mog poddawa si szczepieniom ochronnym przeciw chorobom zakanym, innym ni szczepienia obowizkowe, zwanym dalej ,,zalecanymi szczepieniami ochronnymi".
+2. Zalecane szczepienia ochronne i lekarskie badania kwalifikacyjne ubezpieczonych przeprowadzaj wiadczeniodawcy, z którymi Narodowy Fundusz Zdrowia zawarl umow o udzielanie tych wiadcze.
+3. Koszty przeprowadzenia zalecanych szczepie ochronnych i lekarskich bada kwalifikacyjnych oraz konsultacji specjalistycznych ubezpieczonych s finansowane na zasadach okrelonych w przepisach o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych.
+4. Koszty przeprowadzenia zalecanych szczepie ochronnych i lekarskich bada kwalifikacyjnych oraz konsultacji specjalistycznych osób nieposiadajcych uprawnie z tytulu ubezpieczenia zdrowotnego ponosz osoby poddajce si zalecanym szczepieniom ochronnym i lekarskim badaniom kwalifikacyjnym.
+5. Jeeli ubezpieczony wykona zalecane szczepienie ochronne lub lekarskie badanie kwalifikacyjne u innego wiadczeniodawcy ni wskazany w ust. 2, ponosi koszty badania i przeprowadzenia szczepienia.
+6. Do przeprowadzania zalecanych szczepie ochronnych stosuje si odpowiednio przepisy art. 17 ust. 2­6.
+7. Osoba poddajca si zalecanemu szczepieniu ochronnemu ponosi koszty zakupu szczepionki.
+8. Osoby przeprowadzajce zalecane szczepienie ochronne prowadz dokumentacj medyczn, o której mowa w art. 17 ust. 8, oraz: 1) wydaj osobie poddawanej szczepieniu zawiadczenie o wykonaniu zalecanego
+szczepienia ochronnego; 2) informuj osob poddawan szczepieniu o moliwoci wydania na jej koszt
+Midzynarodowej Ksieczki Szczepie. 9. Informacje na temat wykonanych szczepie ochronnych, zalecanych przez wiatow Organizacj Zdrowia, wymaganych na podstawie midzynarodowych
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 23/66
+
+przepisów zdrowotnych, u osób udajcych si poza granice Rzeczypospolitej Polskiej, s dokumentowane w Midzynarodowej Ksieczce Szczepie.
+10. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia: 1) wykaz zalecanych szczepie ochronnych, 2) sposób finansowania i dokumentowania zalecanych szczepie ochronnych
+wymaganych midzynarodowymi przepisami zdrowotnymi, 3) wzór Midzynarodowej Ksieczki Szczepie oraz sposób jej wydawania
+i dokonywania w niej wpisów, 4) sposób prowadzenia dokumentacji z wykonanych zalecanych szczepie
+ochronnych ­ uwzgldniajc zalecenia wiatowej Organizacji Zdrowia i cele nadzoru epidemiologicznego.
+Art. 20. 1. W celu zapobiegania szerzeniu si zakae i chorób zakanych wród pracowników naraonych na dzialanie biologicznych czynników chorobotwórczych przeprowadza si zalecane szczepienia ochronne wymagane przy wykonywaniu czynnoci zawodowych, okrelonych na podstawie ust. 4.
+2. Pracodawca lub zlecajcy wykonanie prac informuje pracownika lub osob majc wykonywa prac, naraonych na dzialanie biologicznych czynników chorobotwórczych, przed podjciem czynnoci zawodowych o rodzaju zalecanego szczepienia ochronnego wymaganego przy wykonywaniu czynnoci zawodowych, okrelonych na podstawie ust. 4.
+3. Koszty przeprowadzania szczepie, o których mowa w ust. 1, oraz zakupu szczepionek ponosi pracodawca.
+4. Rada Ministrów okreli, w drodze rozporzdzenia, wykaz rodzajów czynnoci zawodowych oraz zalecanych szczepie ochronnych wymaganych u pracowników, funkcjonariuszy, olnierzy lub podwladnych podejmujcych prac, zatrudnionych lub wyznaczonych do wykonywania tych czynnoci, majc na wzgldzie ochron zdrowia pracowników, funkcjonariuszy i olnierzy naraonych na dzialanie biologicznych czynników chorobotwórczych w trakcie wykonywania czynnoci zawodowych.
+Art. 21. 1. Lekarz lub felczer, który podejrzewa lub rozpoznaje wystpienie niepodanego odczynu poszczepiennego, ma obowizek, w cigu 24 godzin od
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 24/66
+
+powzicia podejrzenia jego wystpienia, zgloszenia takiego przypadku do pastwowego powiatowego inspektora sanitarnego wlaciwego dla miejsca powzicia podejrzenia jego wystpienia.
+2. Zgloszenie zawiera dane osoby, u której podejrzewa si lub rozpoznano wystpienie niepodanego odczynu poszczepiennego: 1) imi i nazwisko; 2) dat urodzenia; 3) numer PESEL, a w przypadku gdy osobie nie nadano tego numeru ­ seri
+i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest moliwe ustalenie danych osobowych; 4) ple; 5) adres miejsca zamieszkania; 6) dane o stanie zdrowia oraz inne informacje niezbdne do sprawowania nadzoru nad wystpowaniem odczynów poszczepiennych, zgodnie ze wspólczesn wiedz medyczn. 3. Wlaciwy pastwowy inspektor sanitarny: 1) uzupelnia zgloszenie niepodanego odczynu poszczepiennego o informacje zebrane w miejscu wykonania szczepienia lub niezwlocznie przekazuje zgloszenie pastwowemu powiatowemu inspektorowi sanitarnemu wlaciwemu ze wzgldu na miejsce wykonania szczepienia oraz 2) prowadzi rejestr zglosze niepodanych odczynów poszczepiennych. 4. Rejestr zglosze niepodanych odczynów poszczepiennych moe by prowadzony w formie papierowej lub w systemie elektronicznym, a dane w nim zgromadzone s udostpniane podmiotom, o których mowa w art. 30 ust. 1. 5. Rejestr zawiera dane osób, u których podejrzewa si lub rozpoznano wystpienie niepodanego odczynu poszczepiennego: 1) imi i nazwisko; 2) dat urodzenia; 3) numer PESEL, a w przypadku gdy osobie nie nadano tego numeru ­ seri i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest moliwe ustalenie danych osobowych; 4) ple; 5) adres miejsca zamieszkania;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 25/66
+
+6) dane o stanie zdrowia oraz inne informacje niezbdne do sprawowania nadzoru nad wystpowaniem odczynów poszczepiennych, zgodnie ze wspólczesn wiedz medyczn;
+7) informacje pochodzce z nadzoru indywidualnego. 6. Koszty wiadcze zdrowotnych, udzielanych w zwizku z leczeniem
+niepodanych odczynów poszczepiennych ubezpieczonych, s finansowane na zasadach okrelonych w przepisach o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych.
+7. Koszty wiadcze zdrowotnych, udzielanych w zwizku z leczeniem niepodanych odczynów poszczepiennych osób nieposiadajcych uprawnie z tytulu ubezpieczenia zdrowotnego, s finansowane z budetu pastwa z czci, której dysponentem jest minister wlaciwy do spraw zdrowia.
+8. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia: 1) rodzaje niepodanych odczynów poszczepiennych i kryteria ich rozpoznawania
+na potrzeby nadzoru epidemiologicznego, 2) sposób zglaszania niepodanych odczynów poszczepiennych, 3) wzory formularzy zglosze niepodanych odczynów poszczepiennych, 4) sposób prowadzenia rejestru zglosze niepodanych odczynów
+poszczepiennych, udostpniania danych nim objtych oraz okres ich przechowywania ­ majc na wzgldzie jednolito rodzajów rozpoznawanych niepodanych odczynów poszczepiennych i zapewnienie skutecznego nadzoru epidemiologicznego w zakresie wystpowania tych odczynów. 9. (uchylony)
+Rozdzial 5
+Inne dzialania majce na celu zapobieganie zakaeniom i chorobom zakanym
+Art. 22. 1. Wlaciciel, posiadacz lub zarzdzajcy nieruchomoci s obowizani utrzymywa j w naleytym stanie higieniczno-sanitarnym w celu zapobiegania zakaeniom i chorobom zakanym, w szczególnoci: 1) prowadzi prawidlow gospodark odpadami i ciekami; 2) zwalcza gryzonie, insekty i szkodniki; 3) usuwa padle zwierzta z nieruchomoci;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 26/66
+
+4) usuwa odchody zwierzt z nieruchomoci. 2. W razie niebezpieczestwa szerzenia si zakaenia lub choroby zakanej,
+uwzgldniajc aktualn sytuacj epidemiologiczn, minister wlaciwy do spraw zdrowia moe okreli, w drodze rozporzdzenia, szczególowe wymagania sanitarnohigieniczne, jakim powinny odpowiada obiekty produkcyjne, uslugowe, handlowe, a take sposoby postpowania majce na celu zapobieganie zakaeniom i chorobom zakanym, oraz kwalifikacje osób uprawnionych do realizacji procedur czystoci i dekontaminacji, w zakresie: 1) lokalizacji obiektów produkcyjnych, uslugowych oraz handlowych, 2) minimalnej iloci i powierzchni oraz przeznaczenia pomieszcze wchodzcych
+w sklad obiektów produkcyjnych, uslugowych oraz handlowych, 3) procedur utrzymania czystoci i dekontaminacji, 4) warunków produkcji, wiadczenia uslug i prowadzenia handlu ­ z uwzgldnieniem rodzajów prowadzonej dzialalnoci, zapewniajc ochron osób korzystajcych z uslug wiadczonych przez te podmioty przed zakaeniami oraz chorobami zakanymi.
+Art. 23. 1. Podmiot wprowadzajcy do obrotu produkty, okrelone na podstawie ust. 2 pkt 1, jest obowizany do podejmowania wszelkich dziala, aby wprowadzany produkt nie stanowil ródla zakaenia dla ludzi.
+2. Minister wlaciwy do spraw zdrowia moe okreli, w drodze rozporzdzenia: 1) produkty, które z uwagi na swoje wlaciwoci mog sta si ródlem zakaenia, 2) sposoby postpowania z produktami, o których mowa w pkt 1, 3) wymogi sanitarne i higieniczne, które musi spelnia wprowadzany produkt, 4) wymogi, które musz spelnia pomieszczenia, urzdzenia i rodki transportu
+sluce do przechowywania i dystrybucji wprowadzanego produktu ­ majc na wzgldzie zapobieganie szerzeniu si zakae i chorób zakanych, w zwizku z wprowadzaniem do obrotu produktów mogcych stanowi ródlo zakaenia.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 27/66
+
+Rozdzial 6
+Postpowanie w przypadku podejrzenia lub rozpoznania zakaenia lub choroby zakanej oraz w przypadku stwierdzenia zgonu z powodu choroby zakanej
+Art. 24. 1. Organy Pastwowej Inspekcji Sanitarnej, Wojskowej Inspekcji Sanitarnej, Inspekcji Weterynaryjnej, Wojskowej Inspekcji Weterynaryjnej, Inspekcji Ochrony rodowiska oraz orodki referencyjne i instytuty badawcze wspóldzialaj w celu zapobiegania oraz zwalczania zakae i chorób zakanych, rozpoznawania i monitorowania sytuacji epidemiologicznej oraz zapewnienia systemu wczesnego powiadamiania o zagroeniu epidemicznym w kraju.
+2. W przypadku powzicia podejrzenia albo rozpoznania zakaenia, choroby zakanej lub zgonu z ich powodu, wystpujcych wród olnierzy, funkcjonariuszy i pracowników jednostek oraz innych osób objtych zakresem dzialania inspekcji, o których mowa w ust. 1, midzy podmiotami, o których mowa w ust. 1, mog by przekazywane, w formie papierowej lub elektronicznej, dane tych osób, zawierajce: 1) imi i nazwisko; 2) dat urodzenia; 3) numer PESEL, a w przypadku gdy osobie nie nadano tego numeru ­ seri
+i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest moliwe ustalenie danych osobowych; 4) ple; 5) adres miejsca zamieszkania; 6) rozpoznanie kliniczne zakaenia lub choroby zakanej, charakterystyk podstawowych objawów klinicznych, okolicznoci wystpienia zakaenia, zachorowania lub zgonu z powodu zakaenia lub choroby zakanej, ze szczególnym uwzgldnieniem czynników ryzyka i charakterystyki biologicznego czynnika zakanego, oraz inne informacje niezbdne do sprawowania nadzoru epidemiologicznego, zgodnie z zasadami wspólczesnej wiedzy medycznej. 3. Minister wlaciwy do spraw zdrowia w porozumieniu z Ministrem Obrony Narodowej, ministrem wlaciwym do spraw wewntrznych oraz ministrem wlaciwym do spraw rolnictwa okreli, w drodze rozporzdzenia: 1) wykaz zakae i chorób zakanych, o których mowa w ust. 2,
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 28/66
+
+2) sposób udostpniania danych, o których mowa w ust. 2, oraz okres ich przechowywania
+­ uwzgldniajc konieczno zapewnienia skutecznego nadzoru epidemiologicznego oraz zapobiegania i zwalczania zakae i chorób zakanych.
+4. Organy Pastwowej Inspekcji Sanitarnej, Inspekcji Weterynaryjnej oraz Inspekcji Ochrony rodowiska wspóldzialaj w zakresie zwalczania zakae i chorób zakanych, które mog by przenoszone ze zwierzt na ludzi lub z ludzi na zwierzta.
+5. W przypadku powzicia podejrzenia albo rozpoznania zakaenia, choroby zakanej, okrelonych na podstawie ust. 6 pkt 2, lub zgonu z ich powodu, midzy organami, o których mowa w ust. 4, s przekazywane, w formie papierowej lub w systemie elektronicznym, dane osób, u których podejrzewa si albo rozpoznano zakaenie, chorob zakan, okrelonych na podstawie ust. 6 pkt 2, lub stwierdzono zgon z ich powodu, zawierajce: 1) imi i nazwisko; 2) dat urodzenia; 3) numer PESEL, a w przypadku gdy osobie nie nadano tego numeru ­ seri
+i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest moliwe ustalenie danych osobowych; 4) ple; 5) adres miejsca zamieszkania; 6) rozpoznanie kliniczne zakaenia lub choroby zakanej, charakterystyk podstawowych objawów klinicznych, okolicznoci wystpienia zakaenia, zachorowania lub zgonu z powodu zakaenia lub choroby zakanej, ze szczególnym uwzgldnieniem czynników ryzyka i charakterystyki biologicznego czynnika zakanego, oraz inne informacje niezbdne do sprawowania nadzoru epidemiologicznego, zgodnie z zasadami wspólczesnej wiedzy medycznej. 6. Minister wlaciwy do spraw zdrowia w porozumieniu z ministrem wlaciwym do spraw rolnictwa oraz ministrem wlaciwym do spraw klimatu okreli, w drodze rozporzdzenia: 1) formy i tryb wspóldzialania midzy organami, o których mowa w ust. 4, 2) wykaz zakae i chorób zakanych, o których mowa w ust. 4,
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 29/66
+
+3) terminy i sposoby przekazywania informacji epidemiologicznych oraz epizootycznych,
+4) sposób udostpniania danych, o których mowa w ust. 5, oraz okres ich przechowywania,
+5) sposób wykorzystania sil i rodków posiadanych przez organy, o których mowa w ust. 4,
+6) rodzaje bada laboratoryjnych wykonywanych przez organy, o których mowa w ust. 4
+­ majc na uwadze cele nadzoru epidemiologicznego i epizootiologicznego, skuteczno nadzoru epidemiologicznego i epizootiologicznego oraz ochron zdrowia publicznego.
+Art. 25. 1. Glówny Inspektor Sanitarny oraz wskazane przez niego podmioty wspólpracuj z pastwami czlonkowskimi Unii Europejskiej, Komisj Europejsk i Europejskim Centrum do Spraw Zapobiegania i Kontroli Chorób w ramach wspólnotowej sieci nadzoru epidemiologicznego i kontroli chorób zakanych.
+2. Wspólpraca, o której mowa w ust. 1, obejmuje: 1) przekazywanie do podstawowej oraz specjalistycznych sieci nadzoru Unii
+Europejskiej danych o przypadkach zakae, zachorowa lub zgonów z powodu chorób zakanych gromadzonych w rejestrze, o którym mowa w art. 30 ust. 1; 2) wymian innych informacji istotnych dla zapobiegania i zwalczania zakae oraz chorób zakanych. 3. Przy ministrze wlaciwym do spraw zdrowia dziala krajowy punkt kontaktowy wspólnotowego systemu wczesnego ostrzegania i reagowania dla zapobiegania i kontroli zakae oraz chorób zakanych, do którego zada naley wymiana informacji oraz koordynacja dziala w zakresie zapobiegania oraz zwalczania zakae i chorób zakanych z pastwami czlonkowskimi Unii Europejskiej, Komisj Europejsk oraz Europejskim Centrum do Spraw Zapobiegania i Kontroli Chorób. 4. W przypadku wystpienia choroby zakanej, której zwalczanie wymaga podjcia skoordynowanego dzialania wspólnotowego, krajowy punkt kontaktowy wspólnotowego systemu wczesnego ostrzegania i reagowania przekazuje Europejskiemu Centrum do Spraw Zapobiegania i Kontroli Chorób lub punktom kontaktowym pastw czlonkowskich Unii Europejskiej dane osoby podejrzanej o zakaenie lub zachorowanie, zakaonej lub chorej na chorob zakan, o których
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 30/66
+
+mowa w art. 27 ust. 4, tylko w przypadku gdy jest to niezbdne do podjcia przez te podmioty dziala slucych zapobieganiu i kontroli chorób zakanych i wylcznie w zakresie niezbdnym do zapewnienia skutecznoci tych dziala.
+5. Koszty zwizane z dzialalnoci krajowego punktu kontaktowego wspólnotowego systemu wczesnego ostrzegania i reagowania s finansowane z budetu pastwa z czci, której dysponentem jest minister wlaciwy do spraw zdrowia.
+Art. 26. 1. Lekarz, felczer, pielgniarka lub polona, którzy podejrzewaj lub rozpoznaj zakaenie lub chorob zakan, s obowizani pouczy zakaonego lub chorego na chorob zakan lub osob sprawujc prawn piecz nad zakaon lub chor na chorob zakan osob maloletni lub bezradn albo jej opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta o: 1) rodkach slucych zapobieganiu przeniesienia zakaenia na inne osoby; 2) obowizkach, o których mowa w art. 5 ust. 1 pkt 3 i pkt 4 lit. a oraz art. 6 ust. 1
+pkt 1, 2, 4 i 5. 2. W przypadku rozpoznania zakaenia, które moe przenosi si drog kontaktów seksualnych, lekarz lub felczer ma obowizek poinformowa zakaonego o koniecznoci zgloszenia si do lekarza partnera lub partnerów seksualnych zakaonego. 3. Informacj o powiadomieniu zakaonego o obowizku, o którym mowa w ust. 2, wpisuje si do dokumentacji medycznej i potwierdza podpisem zakaonego.
+Art. 27. 1. Lekarz lub felczer, który podejrzewa lub rozpoznaje zakaenie, chorob zakan lub zgon z powodu zakaenia lub choroby zakanej, okrelone na podstawie ust. 9 pkt 1, jest obowizany do zgloszenia tego faktu wlaciwemu pastwowemu inspektorowi sanitarnemu okrelonemu na podstawie ust. 9 pkt 2. Zgloszenia dokonuje si niezwlocznie, nie póniej jednak ni w cigu 24 godzin od chwili powzicia podejrzenia lub rozpoznania zakaenia, choroby zakanej lub zgonu z powodu zakaenia lub choroby zakanej, chyba e ze wzgldu na rodzaj zakaenia lub choroby zakanej wlaciwy pastwowy inspektor sanitarny postanowi inaczej.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 31/66
+
+2. Kierownicy podmiotów wykonujcych dzialalno lecznicz zapewniaj warunki organizacyjne i techniczne niezbdne do realizacji obowizku, o którym mowa w ust. 1, oraz sprawuj nadzór nad jego wykonywaniem.
+3. (uchylony) 4. Zgloszenie zawiera nastpujce dane osoby, u której podejrzano lub rozpoznano zakaenie, chorob zakan lub stwierdzono zgon z tego powodu: 1) imi i nazwisko; 2) dat urodzenia; 3) numer PESEL, a w przypadku gdy osobie nie nadano tego numeru ­ seri i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest moliwe ustalenie danych osobowych; 3a) obywatelstwo; 4) ple; 5) adres miejsca zamieszkania; 6) rozpoznanie kliniczne zakaenia lub choroby zakanej, charakterystyk podstawowych objawów klinicznych, okolicznoci wystpienia zakaenia, zachorowania lub zgonu z powodu zakaenia lub choroby zakanej, ze szczególnym uwzgldnieniem czynników ryzyka, charakterystyki biologicznego czynnika zakanego, oraz inne informacje niezbdne do sprawowania nadzoru epidemiologicznego, zgodnie z zasadami wspólczesnej wiedzy medycznej. 5. (uchylony) 6. (uchylony) 7. (uchylony) 8. W przypadku powzicia podejrzenia zachorowania na chorob szczególnie niebezpieczn i wysoce zakan lub zgonu z powodu takiej choroby czlonka zalogi lub pasaera odbywajcego podró midzynarodow: 1) dowódca statku powietrznego za porednictwem instytucji zapewniajcych sluby ruchu lotniczego, 2) kapitan statku morskiego osobicie lub za porednictwem Morskiej Sluby Poszukiwania i Ratownictwa, agenta statku lub kapitanatu portu, 3) kierujcy rodkiem transportu drogowego, 4) pilot wycieczki lub przewodnik turystyczny
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 32/66
+
+­ jest obowizany do niezwlocznego zgloszenia tego faktu, dostpnymi rodkami lcznoci, pastwowemu powiatowemu inspektorowi sanitarnemu lub pastwowemu granicznemu inspektorowi sanitarnemu wlaciwemu dla planowanego miejsca przekroczenia granicy pastwowej albo portu lotniczego lub morskiego, a jeeli podejrzenie zachorowania na chorob szczególnie niebezpieczn i wysoce zakan lub zgonu z powodu takiej choroby powzito po przekroczeniu granicy pastwowej ­ pastwowemu powiatowemu inspektorowi sanitarnemu lub pastwowemu granicznemu inspektorowi sanitarnemu wlaciwemu dla miejsca powzicia podejrzenia zachorowania na tak chorob lub zgonu z jej powodu.
+9. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia: 1) zakaenia i choroby zakane, w przypadku których podejrzenia lub rozpoznania
+zakaenia, choroby zakanej lub zgonu z ich powodu dokonywane s zgloszenia, o którym mowa w ust. 1, 2) sposób dokonywania zglosze podejrzenia lub rozpoznania zakaenia, choroby zakanej lub zgonu z powodu zakaenia lub choroby zakanej, o których mowa w ust. 1, oraz wlaciwych pastwowych inspektorów sanitarnych, którym s przekazywane te zgloszenia, 3) wzory formularzy zglosze podejrzenia lub rozpoznania zakaenia, choroby zakanej lub zgonu z powodu zakaenia lub choroby zakanej ­ uwzgldniajc konieczno ochrony danych osobowych, stworzenia rozwiza umoliwiajcych prowadzenie skutecznego nadzoru epidemiologicznego oraz stopie zagroenia zakaeniem lub chorob zakan.
+Art. 28. Lekarz lub felczer, który podejrzewa lub rozpoznaje chorob szczególnie niebezpieczn i wysoce zakan, stanowic zagroenie dla zdrowia publicznego, lub stwierdza zgon w wyniku takiej choroby, podejmuje dzialania zapobiegajce szerzeniu si zachorowa, w tym: 1) kieruje osob podejrzan o zakaenie lub zachorowanie oraz zakaon lub chor
+na chorob zakan do szpitala specjalistycznego zapewniajcego izolacj i leczenie tej osoby oraz niezwlocznie informuje szpital o tym fakcie; 2) organizuje transport uniemoliwiajcy przeniesienie zakaenia na inne osoby; 3) poucza osob chor lub osob sprawujc prawn piecz nad chor osob maloletni lub bezradn albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 33/66
+
+Pacjenta, osoby najblisze oraz osoby, o których mowa w art. 17 ust. 1a, o obowizkach wynikajcych z art. 5 ust. 1; 4) niezwlocznie powiadamia pastwowego powiatowego inspektora sanitarnego wlaciwego dla miejsca podejrzenia, rozpoznania choroby szczególnie niebezpiecznej i wysoce zakanej lub stwierdzenia zgonu o podjtych dzialaniach.
+Art. 29. 1. Diagnosta laboratoryjny lub inna osoba uprawniona do samodzielnego wykonywania czynnoci diagnostyki laboratoryjnej, w przypadku wykonania badania w kierunku biologicznego czynnika chorobotwórczego zgodnie z przepisami wydanymi na podstawie ust. 7 pkt 1, s obowizani w przypadkach okrelonych w tych przepisach do zgloszenia wyniku tego badania wlaciwemu pastwowemu inspektorowi sanitarnemu okrelonemu zgodnie z przepisami wydanymi na podstawie ust. 7 pkt 2. Zgloszenia dokonuje si niezwlocznie, nie póniej jednak ni w cigu 24 godzin od momentu uzyskania wyniku.
+1a. Kierownicy laboratoriów diagnostycznych zapewniaj warunki organizacyjne i techniczne dla realizacji obowizku, o którym mowa w ust. 1, oraz sprawuj nadzór nad jego wykonywaniem.
+2. (uchylony) 3. Zgloszenie zawiera dane osoby, u której stwierdzono dodatni wynik badania w kierunku biologicznych czynników chorobotwórczych: 1) imi i nazwisko; 2) dat urodzenia; 3) numer PESEL, a w przypadku gdy osobie nie nadano tego numeru ­ seri i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest moliwe ustalenie danych osobowych; 3a) obywatelstwo; 4) ple; 5) adres miejsca zamieszkania; 6) rodzaj biologicznego czynnika chorobotwórczego i jego charakterystyk oraz inne informacje istotne dla sprawowania nadzoru epidemiologicznego zgodnie z zasadami wspólczesnej wiedzy medycznej. 3a. W przypadkach okrelonych w przepisach wydanych na podstawie ust. 7 pkt 1 do zgloszenia dolcza si kopie sprawozdania z badania laboratoryjnego.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 34/66
+
+W takim przypadku formularz zgloszenia nie zawiera danych, które s zawarte w sprawozdaniu z badania laboratoryjnego, z wyjtkiem danych niezbdnych dla elektronicznego lczenia danych o przypadkach w rejestrze, o którym mowa w art. 30 ust. 1.
+4. (uchylony) 5. (uchylony) 6. (uchylony) 7. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia: 1) biologiczne czynniki chorobotwórcze podlegajce obowizkowi zgloszenia, o którym mowa w ust. 1, oraz przeslanki dokonywania zglosze, z uwzgldnieniem zglosze wyników dodatnich i ujemnych, 2) sposób dokonywania zglosze wyników badania w kierunku biologicznych czynników chorobotwórczych oraz wlaciwych pastwowych inspektorów sanitarnych, którym s przekazywane te zgloszenia, 3) wzory formularzy zglosze wyników badania w kierunku biologicznych czynników chorobotwórczych ­ uwzgldniajc stopie zagroenia czynnikami chorobotwórczymi, konieczno ochrony danych osobowych oraz stworzenia rozwiza umoliwiajcych prowadzenie skutecznego nadzoru epidemiologicznego.
+Art. 29a. 1. W ramach nadzoru epidemiologicznego nad zakaeniami i chorobami zakanymi moe by prowadzony nadzór sentinel.
+2. W nadzorze, o którym mowa w ust. 1, uczestnicz: 1) wskazane przez ministra wlaciwego do spraw zdrowia instytuty badawcze
+i orodki referencyjne, na podstawie umowy zawartej z ministrem wlaciwym do spraw zdrowia; 2) wojewódzkie lub powiatowe stacje sanitarno-epidemiologiczne; 3) podmioty lecznicze oraz lekarze wykonujcy zawód w ramach praktyki zawodowej w rozumieniu przepisów o dzialalnoci leczniczej, na podstawie umowy zawartej z pastwowym inspektorem sanitarnym; 4) medyczne laboratoria diagnostyczne w rozumieniu przepisów o diagnostyce laboratoryjnej, akredytowane w zakresie przedmiotu badania na podstawie ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodnoci i nadzoru rynku, na podstawie umowy zawartej z pastwowym inspektorem sanitarnym.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 35/66
+
+3. Koszty uczestnictwa w nadzorze sentinel: 1) podmiotów, o których mowa w ust. 2 pkt 1, s finansowane z budetu pastwa
+z czci, której dysponentem jest minister wlaciwy do spraw zdrowia; 2) podmiotów, o których mowa w ust. 2 pkt 2­4, s finansowane z budetu pastwa
+z czci, której dysponentem jest wojewoda. 4. Minister wlaciwy do spraw zdrowia moe okreli, w drodze rozporzdzenia: 1) zakaenia lub choroby zakane objte nadzorem sentinel, 2) sposób prowadzenia nadzoru sentinel, 3) jednostki podzialu terytorialnego kraju, w których jest prowadzony nadzór sentinel, 4) zadania realizowane przez podmioty uczestniczce w nadzorze sentinel ­ majc na wzgldzie cele nadzoru sentinel oraz zapewnienie reprezentatywnoci zbieranych w nim danych.
+Art. 30. 1. Pastwowi powiatowi inspektorzy sanitarni, pastwowi wojewódzcy inspektorzy sanitarni lub wskazane przez nich specjalistyczne jednostki, wlaciwe ze wzgldu na rodzaj zakaenia lub choroby zakanej, oraz Glówny Inspektor Sanitarny lub wskazane przez niego krajowe specjalistyczne jednostki, wlaciwe ze wzgldu na rodzaj zakaenia lub choroby zakanej, prowadz rejestr przypadków zakae i zachorowa na chorob zakan, zwany dalej ,,rejestrem chorób zakanych".
+2. Rejestr chorób zakanych zawiera nastpujce dane osoby zakaonej, chorej lub zmarlej z powodu choroby zakanej, a take osób naraonych na chorob zakan lub podejrzanych o zakaenie lub chorob zakan: 1) imi i nazwisko; 2) dat urodzenia; 3) numer PESEL, a w przypadku gdy osobie nie nadano tego numeru ­ rodzaj
+i numer dokumentu potwierdzajcego tosamo; 4) ple; 5) obywatelstwo; 6) dane o kraju pochodzenia; 7) adres miejsca zamieszkania; 8) informacj o podejrzeniu lub rozpoznaniu choroby zakanej lub zakaenia lub
+ich wykluczeniu; 9) dat i przyczyn zgonu, jeeli dotyczy;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 36/66
+
+10) dane majce znaczenie dla nadzoru epidemiologicznego oraz zapobiegania chorobom zakanym i zakaeniom i ich zwalczania, zgodnie z zasadami wiedzy medycznej, które, w zalenoci od rodzaju choroby lub zakaenia oraz okolicznoci, obejmuj: a) charakterystyk podstawowych objawów klinicznych, b) opis okolicznoci wystpienia zakaenia, zachorowania lub zgonu z powodu zakaenia lub choroby zakanej, ze szczególnym uwzgldnieniem czynników ryzyka, c) dane dotyczce przynalenoci do populacji kluczowych dla nadzoru epidemiologicznego nad danym zakaeniem lub chorob zakan, d) dane dotyczce postpowania diagnostycznego, wyniki badania klinicznego, bada dodatkowych i laboratoryjnych, charakterystyk fenotypow i genotypow biologicznego czynnika chorobotwórczego, w tym informacje o lekoopornoci, e) dane dotyczce schematu i wyników leczenia. 3. ródlami danych, o których mowa w ust. 2, dla rejestru chorób zakanych s
+dane: 1) ze zglosze, o których mowa w art. 27 ust. 1, art. 29 ust. 1 i art. 40a ust. 1; 2) uzyskane w ramach indywidualnego nadzoru epidemiologicznego; 3) udostpnione przez Narodowy Fundusz Zdrowia z rejestrów medycznych
+zawierajcych dane o udzielonych wiadczeniach zdrowotnych; 4) udostpnione z rejestrów medycznych prowadzonych w zakresie chorób
+zakanych i pasoytniczych, o których mowa w art. 19 ust. 1a pkt 14 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2020 r. poz. 702 i 1493). 4. Podmioty prowadzce rejestr chorób zakanych s administratorami danych gromadzonych w tym rejestrze. Przepisy art. 20 ust. 5­10 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia stosuje si odpowiednio. 5. Minister wlaciwy do spraw zdrowia wyznacza administratora systemu rejestru chorób zakanych sporód jednostek podleglych lub nadzorowanych przez tego ministra.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 37/66
+
+6. Dane zgromadzone w rejestrze chorób zakanych dotyczce osób, które s dawc krwi lub kandydatem na dawc krwi, s udostpniane jednostkom publicznej sluby krwi w zakresie i w sposób okrelony w przepisach o publicznej slubie krwi.
+7. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia, sposób prowadzenia rejestru chorób zakanych oraz okres przechowywania danych zawartych w tym rejestrze, uwzgldniajc zakres i specyfik dziala prowadzonych przez podmioty prowadzce nadzór epidemiologiczny, konieczno ochrony danych osobowych oraz zapewnienie rozwiza umoliwiajcych prowadzenie skutecznego nadzoru epidemiologicznego oraz wspóldzialania, o którym mowa w art. 24 ust. 1.
+Art. 31. 1. Glówny Inspektor Sanitarny sporzdza i publikuje krajowe raporty liczbowe o zarejestrowanych zakaeniach, zachorowaniach i zgonach na zakaenia i choroby zakane podlegajcych zgloszeniu.
+2. Glówny Inspektor Sanitarny moe zleci opracowanie raportu krajowego, o którym mowa w ust. 1, wskazanemu przez siebie podmiotowi.
+Art. 32. 1. W przypadku uzyskania danych lub innych informacji o podejrzeniach lub przypadkach zakae, zachorowa lub zgonów z powodu choroby zakanej pastwowy powiatowy inspektor sanitarny lub pastwowy graniczny inspektor sanitarny, kierujc si opart na wiedzy medycznej wlasn ocen stopnia zagroenia dla zdrowia publicznego oraz wytycznymi pastwowego inspektora sanitarnego wyszego stopnia, niezwlocznie weryfikuje uzyskane informacje, przeprowadza dochodzenie epidemiologiczne, a nastpnie, w razie potrzeby, podejmuje czynnoci majce na celu zapobieganie oraz zwalczanie szerzenia si zakae i zachorowa na t chorob zakan.
+2. Dane i informacje, o których mowa w ust. 1, uzyskuje si na podstawie: 1) zglosze, o których mowa w art. 27 ust. 1 i 8 oraz art. 29 ust. 1 pkt 1; 2) danych uzyskanych z indywidualnego nadzoru epidemiologicznego; 3) danych przekazanych przez punkty kontaktowe wspólnotowych
+i midzynarodowych systemów wczesnego ostrzegania; 4) danych i informacji pochodzcych z innych ródel, w szczególnoci dotyczcych
+ognisk epidemicznych zakae i zachorowa na chorob zakan.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 38/66
+
+Art. 32a. 1. Pastwowy inspektor sanitarny lub Glówny Inspektor Sanitarny, w zwizku z prowadzonym dochodzeniem epidemiologicznym, moe da udzielenia informacji o: 1) osobach zakaonych lub podejrzanych o zakaenie, chorych lub podejrzanych
+o chorob zakan, osobach zmarlych z powodu choroby zakanej lub osobach, wobec których istnieje takie podejrzenie, 2) osobach, które mogly mie styczno z osobami, o których mowa w pkt 1, 3) posiadaczach zwierzt, które mogly stanowi ródlo naraenia na zakaenie lub chorob zakan ­ od kadego, kto takie dane posiada, lub jednostek administracji publicznej, które dane takie mog ustali. 2. Dane osób, o których mowa w ust. 1, obejmuj: 1) imi i nazwisko; 2) dat urodzenia; 3) numer PESEL, a w przypadku gdy osobie nie nadano tego numeru ­ seri i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest moliwe ustalenie danych osobowych; 4) ple; 5) adres miejsca zamieszkania; 6) informacje o aktualnym miejscu pobytu; 7) numer telefonu kontaktowego oraz adres poczty elektronicznej lub innych rodków komunikacji elektronicznej; 8) rozpoznanie kliniczne zakaenia lub choroby zakanej oraz charakterystyk podstawowych objawów klinicznych i biologicznego czynnika chorobotwórczego; 9) okolicznoci naraenia na zakaenie, ze szczególnym uwzgldnieniem czynników ryzyka; 10) tras podróy krajowej lub midzynarodowej oraz wykorzystywane podczas niej przez osob chor lub zakaon rodki transportu; 11) miejsca pobytu osoby zakaonej w okresie wylgania choroby.
+Art. 32b. 1. W razie niebezpieczestwa szerzenia si zakaenia lub choroby zakanej, które moe stanowi zagroenie dla zdrowia publicznego, w szczególnoci wystpienia choroby szczególnie niebezpiecznej lub wysoce zakanej, pastwowy
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 39/66
+
+powiatowy inspektor sanitarny lub pastwowy graniczny inspektor sanitarny jest obowizany do niezwlocznego zgloszenia tego faktu pastwowemu wojewódzkiemu inspektorowi sanitarnemu oraz Glównemu Inspektorowi Sanitarnemu.
+2. Jeeli sytuacja epidemiologiczna, o której mowa w ust. 1, moe mie wplyw na zdrowie publiczne w skali midzynarodowej, pastwowy powiatowy inspektor sanitarny lub pastwowy graniczny inspektor sanitarny jest obowizany do niezwlocznego zgloszenia tego faktu krajowemu punktowi centralnemu do spraw midzynarodowych przepisów zdrowotnych, dzialajcemu na podstawie odrbnych przepisów.
+Art. 33. 1. Pastwowy powiatowy inspektor sanitarny lub pastwowy graniczny inspektor sanitarny moe, w drodze decyzji, naloy na osob zakaon lub chor na chorob zakan albo osob podejrzan o zakaenie lub chorob zakan, lub osob, która miala styczno ze ródlem biologicznego czynnika chorobotwórczego, obowizki okrelone w art. 5 ust. 1.
+2. W celu zapobieenia szerzeniu si zakae lub chorób zakanych pastwowy powiatowy inspektor sanitarny lub pastwowy graniczny inspektor sanitarny moe, w drodze decyzji: 1) wprowadzi zakaz wstpu do pomieszcze skaonych; 2) nakaza przeprowadzenie dekontaminacji, dezynsekcji lub deratyzacji
+nieruchomoci lub pomieszcze; 3) nakaza przeprowadzenie dekontaminacji przedmiotów, a jeeli nie jest to
+moliwe ­ ich zniszczenie; 4) wprowadzi zakaz korzystania z wody przeznaczonej do spoycia przez ludzi
+i na potrzeby gospodarcze, pochodzcej z uj, co do których istnieje podejrzenie skaenia biologicznymi czynnikami chorobotwórczymi; 5) wprowadzi zakaz spoywania ywnoci podejrzanej o skaenie, a w razie potrzeby, zarzdzi jej zbadanie, odkaenie, zniszczenie lub przeznaczenie do innych celów; 6) nakaza sekcj zwlok osoby zmarlej, u której rozpoznano lub podejrzewano zakaenie lub chorob zakan; 7) zakaza wykonywania sekcji zwlok ludzi i zwierzt, gdy sekcja zwlok moglaby prowadzi do zakaenia osób lub skaenia rodowiska, z wyjtkiem przypadku, gdy zachodzi podejrzenie popelnienia przestpstwa.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 40/66
+
+3. Decyzjom, o których mowa w ust. 1 i 2, nadaje si rygor natychmiastowej wykonalnoci.
+3a. Decyzje, o których mowa w ust. 1, wydawane w przypadku podejrzenia zakaenia lub choroby szczególnie niebezpiecznej i wysoce zakanej, stanowicej bezporednie zagroenie dla zdrowia lub ycia innych osób: 1) mog by przekazywane w kady moliwy sposób zapewniajcy dotarcie decyzji
+do adresata, w tym ustnie; 2) nie wymagaj uzasadnienia; 3) przekazane w sposób inny ni na pimie, s nastpnie dorczane na pimie po
+ustaniu przyczyn uniemoliwiajcych dorczenie w ten sposób. 4. W przypadku obiektów budowlanych pozostajcych pod nadzorem Inspekcji Weterynaryjnej, decyzja, o której mowa w ust. 2, jest wydawana po zasigniciu opinii powiatowego lekarza weterynarii. 5. Osoby z objawami choroby zakanej dotychczas nierozpoznanej w kraju mog by poddawane obowizkom, o których mowa w art. 5 ust. 1, na zasadach okrelonych w ust. 1­3. 6. (uchylony) 7. W przypadku koniecznoci poddania izolacji lub kwarantannie osób, o których mowa w ust. 1 i 5, wojewoda zapewnia warunki izolacji lub kwarantanny przez zapewnienie odpowiednich pomieszcze, wyposaenia oraz skierowanie do pracy osób posiadajcych odpowiednie kwalifikacje.
+Art. 34. 1. W celu zapobiegania szerzeniu si zakae i chorób zakanych, osoby chore na chorob zakan albo osoby podejrzane o zachorowanie na chorob zakan mog podlega obowizkowej hospitalizacji, izolacji lub izolacji w warunkach domowych.
+2. Osoby, które byly naraone na chorob zakan lub pozostawaly w stycznoci ze ródlem biologicznego czynnika chorobotwórczego, a nie wykazuj objawów chorobowych, podlegaj obowizkowej kwarantannie lub nadzorowi epidemiologicznemu, jeeli tak postanowi organy inspekcji sanitarnej przez okres nie dluszy ni 21 dni, liczc od dnia nastpujcego po ostatnim dniu odpowiednio naraenia albo stycznoci.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 41/66
+
+3. Obowizkowa kwarantanna lub nadzór epidemiologiczny mog by stosowane wobec tej samej osoby wicej ni raz, do czasu stwierdzenia braku zagroenia dla zdrowia lub ycia ludzkiego.
+4. Zakazuje si opuszczania miejsca: 1) izolacji lub izolacji w warunkach domowych, 2) kwarantanny ­ chyba, e odpowiednio dana osoba wymaga hospitalizacji albo organ inspekcji sanitarnej postanowi inaczej.
+5. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia: 1) choroby zakane powodujce powstanie obowizku hospitalizacji, izolacji lub
+izolacji w warunkach domowych, 2) obowizki lekarza lub felczera w przypadku podejrzenia lub rozpoznania
+zakaenia lub choroby zakanej powodujcych powstanie obowizku hospitalizacji, izolacji lub izolacji w warunkach domowych, 3) organ, któremu jest przekazywana informacja o obowizkowej hospitalizacji, izolacji lub izolacji w warunkach domowych danej osoby, 4) obowizki szpitala w przypadku samowolnego opuszczenia szpitala przez osob podlegajc obowizkowej hospitalizacji, 5) choroby zakane powodujce powstanie obowizku kwarantanny lub nadzoru epidemiologicznego u osób, o których mowa w ust. 2, oraz okresy obowizkowej kwarantanny ­ majc na wzgldzie rodzaj biologicznego czynnika chorobotwórczego lub choroby zakanej oraz potrzeb zapobiegania i zwalczania zakae i chorób zakanych u ludzi oraz ochrony zdrowia publicznego.
+Art. 35. 1. W przypadku podejrzenia lub rozpoznania zachorowania na chorob szczególnie niebezpieczn i wysoce zakan, lekarz przyjmujcy do szpitala, kierujcy do izolacji, kwarantanny lub zlecajcy izolacj w warunkach domowych, kierujc si wlasn ocen stopnia zagroenia dla zdrowia publicznego, poddaje osob podejrzan o zachorowanie, chor na chorob szczególnie niebezpieczn i wysoce zakan lub osob naraon na zakaenie hospitalizacji, izolacji, kwarantannie, badaniom lub zleca izolacj w warunkach domowych, równie w przypadku, gdy brak jest decyzji, o której mowa w art. 33 ust. 1, a osoba podejrzana o zachorowanie, chora
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 42/66
+
+lub naraona na zakaenie nie wyraa zgody na hospitalizacj, izolacj, kwarantann, wykonanie badania lub izolacj w warunkach domowych.
+2. O przyjciu do szpitala albo skierowaniu do izolacji, kwarantanny lub zleceniu izolacji w warunkach domowych, osoby, o której mowa w ust. 1, lekarz przyjmujcy do szpitala, kierujcy do izolacji, kwarantanny lub zlecajcy izolacj w warunkach domowych, jest obowizany niezwlocznie zawiadomi pastwowego powiatowego inspektora sanitarnego wlaciwego dla szpitala, miejsca izolacji, odbywania kwarantanny lub izolacji w warunkach domowych.
+3. Zawiadomienie, o którym mowa w ust. 2, obejmuje przekazanie danych osobowych, o których mowa w art. 27 ust. 4.
+4. Lekarz, o którym mowa w ust. 2, jest obowizany poinformowa osob podejrzan o zachorowanie, chor lub naraon na zakaenie i jej osoby najblisze o przeslankach uzasadniajcych podjte dzialania oraz dokona odpowiedniego wpisu w dokumentacji medycznej.
+Art. 36. 1. Wobec osoby, która nie poddaje si obowizkowi szczepienia, badaniom sanitarno-epidemiologicznym, zabiegom sanitarnym, kwarantannie lub izolacji obowizkowej hospitalizacji, a u której podejrzewa si lub rozpoznano chorob szczególnie niebezpieczn i wysoce zakan, stanowic bezporednie zagroenie dla zdrowia lub ycia innych osób, moe by zastosowany rodek przymusu bezporedniego polegajcy na przytrzymywaniu, unieruchomieniu lub przymusowym podaniu leków.
+2. O zastosowaniu rodka przymusu bezporedniego decyduje lekarz lub felczer, który okrela rodzaj zastosowanego rodka przymusu bezporedniego oraz osobicie nadzoruje jego wykonanie przez osoby wykonujce zawody medyczne. Kady przypadek zastosowania rodka przymusu bezporedniego odnotowuje si w dokumentacji medycznej.
+3. Lekarz lub felczer moe zwróci si do Policji, Stray Granicznej lub andarmerii Wojskowej o pomoc w zastosowaniu rodka przymusu bezporedniego. Udzielenie pomocy nastpuje pod warunkiem wyposaenia funkcjonariuszy lub olnierzy w rodki chronice przed chorobami zakanymi przez tego lekarza lub felczera.
+4. Przed zastosowaniem rodka przymusu bezporedniego uprzedza si o tym osob, wobec której rodek przymusu bezporedniego ma by zastosowany, i fakt ten
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 43/66
+
+odnotowuje si w dokumentacji medycznej. Przy wyborze rodka przymusu bezporedniego naley wybiera rodek moliwie dla tej osoby najmniej uciliwy, a przy stosowaniu rodka przymusu bezporedniego naley zachowa szczególn ostrono i dbalo o dobro tej osoby.
+5. Przymus bezporedni polegajcy na unieruchomieniu moe by stosowany nie dluej ni 4 godziny. W razie potrzeby stosowanie tego przymusu moe by przedluone na nastpne okresy 6-godzinne, przy czym nie dluej ni 24 godziny lcznie.
+6. Przytrzymywanie jest doranym, krótkotrwalym unieruchomieniem osoby z uyciem sily fizycznej.
+7. Unieruchomienie jest dluej trwajcym obezwladnieniem osoby z uyciem pasów, uchwytów, przecieradel lub kaftana bezpieczestwa.
+8. Przymusowe podanie leku jest doranym lub przewidzianym w planie postpowania leczniczego wprowadzeniem leków do organizmu osoby ­ bez jej zgody.
+Art. 37. 1. Osoby podejrzane o zachorowanie lub chore na chorob zakan s przyjmowane do szpitala zapewniajcego skuteczn izolacj.
+2. Przyjcie do szpitala osoby, o której mowa w ust. 1, odbywa si: 1) na podstawie skierowania lekarskiego albo bez skierowania w przypadku
+zagroenia zdrowia lub ycia chorego; 2) ze wskaza epidemiologicznych w trybie, o którym mowa w art. 33 ust. 1, lub
+w przypadkach wymienionych w art. 35 ust. 1. 3. W przypadku stwierdzenia u chorego braku wskaza zdrowotnych i epidemiologicznych do hospitalizacji w drodze decyzji, o której mowa w art. 33 ust. 1, lekarz wnioskuje do pastwowego powiatowego inspektora sanitarnego lub pastwowego granicznego inspektora sanitarnego, który wydal decyzj, o uchylenie decyzji nakladajcej obowizek hospitalizacji.
+Art. 38. 1. Koszty wiadcze zdrowotnych udzielonych w celu zwalczania zakae i chorób zakanych, o których mowa w art. 33 i 34, oraz wiadcze zdrowotnych zwizanych przyczynowo z tymi zakaeniami i chorobami zakanymi, udzielonych:
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 44/66
+
+1) ubezpieczonym ­ s finansowane na zasadach okrelonych w przepisach o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych;
+2) osobom nieposiadajcym uprawnie z tytulu ubezpieczenia zdrowotnego ­ s finansowane z budetu pastwa z czci, której dysponentem jest minister wlaciwy do spraw zdrowia. 2. (uchylony)
+Art. 39. 1. Lekarz sprawujcy opiek nad osob poddan hospitalizacji, izolacji lub kwarantannie na podstawie decyzji, o której mowa w art. 33 ust. 1, ma obowizek poinformowania tej osoby o przyczynach zastosowania tego rodka.
+2. W przypadku niewyraenia zgody na hospitalizacj, izolacj lub kwarantann przez osob poddan hospitalizacji, izolacji lub kwarantannie, kierownik podmiotu leczniczego, w którym umieszczona jest ta osoba, ma obowizek powiadomienia jej o przyslugujcych jej rodkach odwolawczych.
+3. Kierownik podmiotu leczniczego, w którym wykonywana jest decyzja, o której mowa w art. 33 ust. 1, jest obowizany do powiadomienia rodziny lub osoby wskazanej przez osob poddan hospitalizacji, izolacji lub kwarantannie, o poddaniu tej osoby hospitalizacji, izolacji lub kwarantannie.
+4. Informacj o wykonaniu czynnoci, o których mowa w ust. 1­3, wpisuje si do dokumentacji medycznej pacjenta.
+Art. 40. 1. Obowizkowemu leczeniu podlegaj osoby chore na: 1) grulic pluc; 2) kil; 3) rzeczk.
+1a. W przypadku podejrzenia lub rozpoznania zakaenia lub choroby zakanej, o której mowa w ust. 1, lekarz lub felczer jest obowizany pouczy pacjenta o obowizku, o którym mowa w ust. 1. Fakt udzielenia pouczenia jest potwierdzany wpisem lekarza lub felczera w dokumentacji medycznej oraz podpisem pacjenta.
+1b. W przypadku zmiany podmiotu udzielajcego choremu wiadcze zdrowotnych zwizanych z chorob, o której mowa w ust. 1, lekarz jest obowizany wystawi choremu skierowanie wskazujce podmiot, który bdzie kontynuowal leczenie, oraz powiadomi o tym fakcie pastwowego powiatowego inspektora
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 45/66
+
+sanitarnego wlaciwego dla dotychczasowego miejsca udzielania wiadczenia zdrowotnego.
+1c. W przypadku uchylania si przez osoby, o których mowa w ust. 1, od obowizku leczenia, lekarz prowadzcy leczenie niezwlocznie powiadamia o tym fakcie pastwowego powiatowego inspektora sanitarnego wlaciwego dla miejsca udzielania wiadczenia zdrowotnego.
+2. Osoby, które mialy styczno z chorymi na grulic pluc w okresie prtkowania, chorymi na kil, rzeczk, dur brzuszny, chorymi na inwazyjne zakaenia Neisseria meningitidis lub Haemophilus influenzae typ b, podlegaj nadzorowi epidemiologicznemu, badaniu klinicznemu, badaniom diagnostycznym, a take w razie potrzeby, profilaktycznemu stosowaniu leków.
+3. wiadczenia zdrowotne, o których mowa w ust. 1 i 2, mog obejmowa równie wydawanie leków przez podmiot, który udzielil wiadczenia zdrowotnego.
+4. Koszty wiadcze zdrowotnych, o których mowa w ust. 1 i 2, oraz wiadcze zdrowotnych zwizanych przyczynowo z tymi zakaeniami i chorobami, udzielonych ubezpieczonym, a take koszty leków, o których mowa w ust. 3, s finansowane na zasadach okrelonych w przepisach o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych.
+5. Koszty wiadcze zdrowotnych, o których mowa w ust. 1 i 2, oraz wiadcze zdrowotnych zwizanych przyczynowo z tymi zakaeniami i chorobami zakanymi, udzielonych osobom nieposiadajcym uprawnie z tytulu ubezpieczenia zdrowotnego, a take koszty leków, o których mowa w ust. 3, s finansowane z budetu pastwa z czci, której dysponentem jest minister wlaciwy do spraw zdrowia.
+6. (uchylony)
+Art. 40a. 1. Podmiot leczniczy, w którym lekarz sprawuje opiek medyczn nad osob zakaon lub chor na chorob zakan okrelon w przepisach wydanych na podstawie ust. 3 pkt 1 albo osob podejrzan o takie zakaenie lub zachorowanie, przekazuje do wlaciwego pastwowego powiatowego inspektora sanitarnego dane o wynikach leczenia lub o wykluczeniu nosicielstwa u ozdrowieca.
+2. Przekazaniu podlegaj wylcznie dane sporód wymienionych w art. 30 ust. 2 w zakresie, w jakim s one niezbdne dla zapobiegania i zwalczania zakae i chorób zakanych.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 46/66
+
+3. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia: 1) wykaz zakae i chorób zakanych, o których mowa w ust. 1, 2) zakres danych sporód wymienionych w art. 30 ust. 2, okolicznoci, termin
+i sposób ich przekazywania, 3) wlaciwo pastwowego inspektora sanitarnego w zakresie otrzymania danych
+na podstawie ust. 1 ­ w celu zapewnienia skutecznoci zapobiegania tym chorobom zakanym i zakaeniom i ich zwalczania, zgodnie z zasadami wspólczesnej wiedzy medycznej, oraz porównywalnoci informacji zbieranych w krajowym i midzynarodowym nadzorze epidemiologicznym.
+Art. 41. 1. Osoba zakaona HIV lub chora na AIDS moe zastrzec dane, o których mowa w art. 24 ust. 2 i 5, art. 27 ust. 4, art. 29 ust. 3 oraz art. 30 ust. 2, umoliwiajce jej identyfikacj. W takim przypadku zgloszenie lub rejestr zawieraj: 1) inicjaly imienia i nazwiska lub haslo; 2) wiek; 3) ple; 4) nazw powiatu wlaciwego ze wzgldu na miejsce zamieszkania; 5) rozpoznanie kliniczne zakaenia lub choroby zakanej oraz drog zakaenia.
+2. W przypadku stwierdzenia lub podejrzenia, e zgon nastpil z powodu zakaenia HIV lub zachorowania na AIDS, lekarz ma obowizek powiadomi o tym fakcie wlaciwego pastwowego powiatowego inspektora sanitarnego. W takim przypadku zgloszenie lub rejestr zawieraj: 1) inicjaly imienia i nazwiska lub haslo; 2) wiek; 3) ple; 4) nazw powiatu wlaciwego ze wzgldu na miejsce zamieszkania; 5) rozpoznanie kliniczne zakaenia lub choroby zakanej oraz drog zakaenia.
+3. Realizacja zada z zakresu leczenia antyretrowirusowego, w celu zapewnienia równego dostpu wszystkim zakaonym HIV i chorym na AIDS do zgodnych z wytycznymi organizacji midzynarodowych metod profilaktyki AIDS, diagnostyki i leczenia antyretrowirusowego, jest prowadzona na podstawie programu polityki zdrowotnej ustalonego przez ministra wlaciwego do spraw zdrowia na podstawie
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 47/66
+
+przepisów ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych.
+4. Leczenie poekspozycyjne osób, które mialy styczno z ludzkim wirusem niedoboru odpornoci (HIV), jest finansowane na zasadach okrelonych w art. 40 ust. 4 i 5.
+5. Profilaktyczne leczenie poekspozycyjne ze stycznoci z ludzkim wirusem niedoboru odpornoci (HIV), do której doszlo w wyniku wypadku w trakcie wykonywania czynnoci zawodowych, jest finansowane przez pracodawc albo zlecajcego prace.
+Rozdzial 7
+Dzialania administracji publicznej w zakresie zapobiegania i zwalczania zakae i chorób zakanych
+Art. 42. 1. Minister wlaciwy do spraw zdrowia moe zleci, w drodze umowy, realizacj zada z zakresu ochrony zdrowia publicznego przed zakaeniami i chorobami zakanymi: 1) szpitalom i oddzialom zakanym zapewniajcym izolacj i leczenie osób
+chorych na choroby zakane oraz zapewniajcych calodobowo konsultacje lekarzy specjalistów w zakresie zakae i chorób zakanych; 2) poradniom i punktom konsultacyjnym w zakresie zakae i chorób zakanych oraz szczepie ochronnych. 2. Do zakresu zada, o których mowa w ust. 1, naley w szczególnoci: 1) utrzymywanie gotowoci do wykonywania calodobowo i w dni ustawowo wolne od pracy wiadcze zdrowotnych, w tym konsultacji lekarskich z zakresu zakae i chorób zakanych; 2) utrzymywanie gotowoci do zwikszenia liczby wykonywanych wiadcze zdrowotnych w zakresie i liczbie okrelonych w umowie, o której mowa w ust. 1; 3) przechowywanie zapasów produktów leczniczych i wyrobów medycznych, wyrobów medycznych do diagnostyki in vitro, wyposaenia wyrobów medycznych, wyposaenia wyrobów medycznych do diagnostyki in vitro i aktywnych wyrobów medycznych do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, oraz innych niezbdnych
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 48/66
+
+urzdze i sprztu w iloci zapewniajcej wykonywanie przez co najmniej 3 doby wiadcze zdrowotnych, o których mowa w pkt 1 i 2; 4) przechowywanie rodków ochrony osobistej i ubra ochronnych dla pracowników w iloci wystarczajcej do wykonywania wiadcze zdrowotnych, o których mowa w pkt 1 i 2, przez co najmniej 3 doby; 5) stale monitorowanie i analiza sytuacji epidemiologicznej w kierunku moliwoci zapewnienia wykonywania wiadcze zdrowotnych w przypadku podejrzenia lub rozpoznania u osoby lub grupy osób zakaenia lub choroby zakanej; 6) zapewnienie transportu sanitarnego ze szczególnym uwzgldnieniem transportu chorych na choroby szczególnie niebezpieczne i wysoce zakane; 7) dokumentowanie wykonanych zada oraz przekazywanie sprawozda z ich wykonania w terminie okrelonym w ust. 4. 3. Minister wlaciwy do spraw zdrowia oglasza, w drodze obwieszczenia, w Dzienniku Urzdowym Rzeczypospolitej Polskiej ,,Monitor Polski": 1) wykaz szpitali i oddzialów zakanych, o których mowa w ust. 1 pkt 1, ze szczególnym uwzgldnieniem szpitali i oddzialów zakanych zapewniajcych moliwo hospitalizacji chorych na choroby wysoce zakane i szczególnie niebezpieczne; 2) wykaz poradni i punktów konsultacyjnych w zakresie zakae i chorób zakanych oraz szczepie, o których mowa w ust. 1 pkt 2. 4. Jednostki, o których mowa w ust. 1, przekazuj ministrowi wlaciwemu do spraw zdrowia w terminie do dnia 31 marca kadego roku sprawozdanie z wykonania, w roku poprzednim, zada z zakresu ochrony zdrowia publicznego przed zakaeniami i chorobami zakanymi. 5. Minister wlaciwy do spraw zdrowia okreli, w drodze rozporzdzenia, tryb zawierania umów, w celu realizacji zada, o których mowa w ust. 2, oraz sposób ich finansowania, majc na wzgldzie zapewnienie skutecznego nadzoru epidemiologicznego oraz ochron zdrowia publicznego.
+Art. 43. Jednostki, o których mowa w art. 42 ust. 1, realizujc zadania z zakresu ochrony zdrowia publicznego przed zakaeniami i chorobami zakanymi, wspólpracuj z: 1) Pastwow Inspekcj Sanitarn i Wojskow Inspekcj Sanitarn;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 49/66
+
+2) jednostkami Systemu Pastwowego Ratownictwa Medycznego, o których mowa w ustawie z dnia 8 wrzenia 2006 r. o Pastwowym Ratownictwie Medycznym (Dz. U. z 2020 r. poz. 882);
+3) podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4­8 ustawy z dnia 20 lipca 2018 r. ­ Prawo o szkolnictwie wyszym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086);
+4) Narodowym Funduszem Zdrowia; 5) podmiotami wchodzcymi w sklad midzynarodowego nadzoru
+epidemiologicznego; 6) organami samorzdu terytorialnego; 7) Policj, Pastwow Stra Poarn i Stra Graniczn.
+Art. 44. 1. W celu zapewnienia skutecznoci dziala slucych ochronie zdrowia publicznego przed zakaeniami i chorobami zakanymi wojewoda sporzdza wojewódzki plan dzialania na wypadek wystpienia epidemii, zwany dalej ,,planem", na okres trzech lat, z moliwoci aktualizacji.
+2. Plan obejmuje: 1) charakterystyk potencjalnych zagroe dla ycia lub zdrowia mogcych
+wystpi na obszarze województwa, w tym analiz ryzyka wystpienia zakae i chorób zakanych u ludzi; 2) wykaz i rozmieszczenie na obszarze województwa zakladów leczniczych podmiotu leczniczego i innych obiektów uytecznoci publicznej, które mog zosta przeznaczone do leczenia, izolowania lub poddawania kwarantannie; 3) liczb osób, które mog zosta poddane leczeniu, izolacji lub kwarantannie w zakladach leczniczych podmiotu leczniczego i innych obiektach uytecznoci publicznej; 4) imienne listy osób, które mog zosta skierowane do dziala slucych ochronie zdrowia publicznego przed zakaeniami i chorobami zakanymi; 5) inne informacje sluce ochronie zdrowia publicznego oraz niezbdne do sporzdzenia planu. 3. Plan jest przygotowywany i aktualizowany na podstawie danych i informacji uzyskanych z jednostek samorzdu terytorialnego, podmiotów leczniczych i innych dysponentów obiektów uytecznoci publicznej.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 50/66
+
+4. Podmioty, o których mowa w ust. 3, na pisemne danie wojewody, przekazuj dane wskazane w ust. 7 oraz informacje niezbdne do sporzdzenia planu, dotyczce w szczególnoci: 1) nazwy i lokalizacji zakladu leczniczego podmiotu leczniczego lub obiektu
+uytecznoci publicznej; 2) rozmieszczenia oraz powierzchni pomieszcze wchodzcych w sklad zakladu
+leczniczego podmiotu leczniczego lub obiektu uytecznoci publicznej; 3) szacunkowej liczby osób, które mog zosta przyjte do leczenia, izolacji lub
+poddawania kwarantannie. 5. W przypadku zmiany danych lub informacji, podmioty, o których mowa w ust. 3, s zobowizane do niezwlocznego ich przekazania wojewodzie. 6. Wojewoda podaje plan do publicznej wiadomoci, w szczególnoci przez zamieszczenie w Biuletynie Informacji Publicznej, z wyjtkiem danych podlegajcych ochronie w rozumieniu przepisów o ochronie danych osobowych. 7. Listy osób, o których mowa w ust. 2 pkt 4, zawieraj dane: 1) imi i nazwisko; 2) wykonywany zawód; 3) dat urodzenia; 4) numer PESEL, a w przypadku gdy osobie nie nadano tego numeru ­ seri i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest moliwe ustalenie danych osobowych; 5) ple; 6) adres miejsca zamieszkania.
+Art. 44a. 1. Jeeli uycie innych sil i rodków jest niemoliwe lub moe okaza si niewystarczajce, Minister Obrony Narodowej moe przekaza do dyspozycji Glównego Inspektora Sanitarnego lub wojewody, na którego obszarze podejmowane s dzialania zwizane ze stanem zagroenia epidemicznego, stanem epidemii albo w razie niebezpieczestwa szerzenia si zakaenia lub choroby zakanej, które moe stanowi zagroenie dla zdrowia publicznego, w szczególnoci wystpienia choroby szczególnie niebezpiecznej lub wysoce zakanej, pododdzialy lub oddzialy Sil Zbrojnych Rzeczypospolitej Polskiej, wraz ze skierowaniem ich do wykonywania zada z tym zwizanych.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 51/66
+
+2. W przypadku, o którym mowa w ust. 1, pododdzialy i oddzialy Sil Zbrojnych Rzeczypospolitej Polskiej pozostaj pod dowództwem przeloonych slubowych i wykonuj zadania okrelone przez Glównego Inspektora Sanitarnego lub wojewod.
+Art. 45. (uchylony)
+Rozdzial 8
+Zasady postpowania w razie stanu zagroenia epidemicznego i stanu epidemii
+Art. 46. 1. Stan zagroenia epidemicznego lub stan epidemii na obszarze województwa lub jego czci oglasza i odwoluje wojewoda, w drodze rozporzdzenia, na wniosek pastwowego wojewódzkiego inspektora sanitarnego.
+2. Jeeli zagroenie epidemiczne lub epidemia wystpuje na obszarze wicej ni jednego województwa, stan zagroenia epidemicznego lub stan epidemii oglasza i odwoluje, w drodze rozporzdzenia, minister wlaciwy do spraw zdrowia w porozumieniu z ministrem wlaciwym do spraw administracji publicznej, na wniosek Glównego Inspektora Sanitarnego.
+3. Oglaszajc stan zagroenia epidemicznego lub stan epidemii, minister wlaciwy do spraw zdrowia lub wojewoda mog naloy obowizek szczepie ochronnych na inne osoby ni okrelone na podstawie art. 17 ust. 9 pkt 2 oraz przeciw innym zakaeniom i chorobom zakanym, o których mowa w art. 3 ust. 1.
+4. W rozporzdzeniach, o których mowa w ust. 1 i 2, mona ustanowi: 1) czasowe ograniczenie okrelonego sposobu przemieszczania si, 2) czasowe ograniczenie lub zakaz obrotu i uywania okrelonych przedmiotów lub
+produktów spoywczych, 3) czasowe ograniczenie funkcjonowania okrelonych instytucji lub zakladów
+pracy, 4) zakaz organizowania widowisk i innych zgromadze ludnoci, 5) obowizek wykonania okrelonych zabiegów sanitarnych, jeeli wykonanie ich
+wie si z funkcjonowaniem okrelonych obiektów produkcyjnych, uslugowych, handlowych lub innych obiektów, 6) nakaz udostpnienia nieruchomoci, lokali, terenów i dostarczenia rodków transportu do dziala przeciwepidemicznych przewidzianych planami przeciwepidemicznymi,
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 52/66
+
+7) obowizek przeprowadzenia szczepie ochronnych, o których mowa w ust. 3, oraz grupy osób podlegajce tym szczepieniom, rodzaj przeprowadzanych szczepie ochronnych
+­ uwzgldniajc drogi szerzenia si zakae i chorób zakanych oraz sytuacj epidemiczn na obszarze, na którym ogloszono stan zagroenia epidemicznego lub stan epidemii.
+5. Rozporzdzenia, o których mowa w ust. 1 i 2, s: 1) niezwlocznie oglaszane w odpowiednim dzienniku urzdowym, zgodnie
+z przepisami o oglaszaniu aktów normatywnych; 2) wchodz w ycie z dniem ogloszenia.
+6. Wojewoda ma obowizek poinformowania obywateli o obowizkach wynikajcych z przepisów, o których mowa w ust. 1­4, w sposób zwyczajowo przyjty na danym terenie.
+Art. 46a. W przypadku wystpienia stanu epidemii lub stanu zagroenia epidemicznego o charakterze i w rozmiarach przekraczajcych moliwoci dzialania wlaciwych organów administracji rzdowej i organów jednostek samorzdu terytorialnego, Rada Ministrów moe okreli, w drodze rozporzdzenia, na podstawie danych przekazanych przez ministra wlaciwego do spraw zdrowia, ministra wlaciwego do spraw wewntrznych, ministra wlaciwego do spraw administracji publicznej, Glównego Inspektora Sanitarnego oraz wojewodów: 1) zagroony obszar wraz ze wskazaniem rodzaju strefy, na którym wystpil stan
+epidemii lub stan zagroenia epidemicznego, 2) rodzaj stosowanych rozwiza ­ w zakresie okrelonym w art. 46b ­ majc na wzgldzie zakres stosowanych rozwiza oraz uwzgldniajc biece moliwoci budetu pastwa oraz budetów jednostek samorzdu terytorialnego.
+Art. 46b. W rozporzdzeniu, o którym mowa w art. 46a, mona ustanowi: 1) ograniczenia, obowizki i nakazy, o których mowa w art. 46 ust. 4; 2) czasowe ograniczenie okrelonych zakresów dzialalnoci przedsibiorców; 3) czasow reglamentacj zaopatrzenia w okrelonego rodzaju artykuly; 4) obowizek poddania si badaniom lekarskim oraz stosowaniu innych rodków
+profilaktycznych i zabiegów przez osoby chore i podejrzane o zachorowanie; 5) obowizek poddania si kwarantannie;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 53/66
+
+6) miejsce kwarantanny; 7) (uchylony) 8) czasowe ograniczenie korzystania z lokali lub terenów oraz obowizek ich
+zabezpieczenia; 9) nakaz ewakuacji w ustalonym czasie z okrelonych miejsc, terenów i obiektów; 10) nakaz lub zakaz przebywania w okrelonych miejscach i obiektach oraz na
+okrelonych obszarach; 11) zakaz opuszczania strefy zero przez osoby chore i podejrzane o zachorowanie; 12) nakaz okrelonego sposobu przemieszczania si.
+Art. 46ba. W przypadku ogloszenia stanu zagroenia epidemicznego lub stanu epidemii, minister wlaciwy do spraw zdrowia moe okreli, w drodze rozporzdzenia, uproszczone rodzaje i zakres dokumentacji medycznej, uproszczony sposób jej przetwarzania oraz skrócony okres przechowywania, obowizujce od dnia ogloszenia stanu zagroenia epidemicznego lub stanu epidemii, uwzgldniajc konieczno szybkiego i skutecznego podejmowania dziala zapobiegajcych szerzeniu si epidemii oraz ochrony danych i informacji dotyczcych stanu zdrowia pacjenta.
+Art. 46c. Do zamówie na uslugi, dostawy lub roboty budowlane udzielanych w zwizku z zapobieganiem lub zwalczaniem epidemii na obszarze, na którym ogloszono stan zagroenia epidemicznego lub stan epidemii, nie stosuje si przepisów o zamówieniach publicznych. W przypadku gdy zamówienie dotyczy inwestycji, o której mowa w art. 95d ust. 1 ustawy z dnia 27 sierpnia 2004 r. o wiadczeniach opieki zdrowotnej finansowanych ze rodków publicznych, nie stosuje si take warunku uzyskania opinii o celowoci inwestycji, o której mowa w tym przepisie.
+Art. 46d. 1. W celu zapobiegania oraz zwalczania zakae i chorób zakanych u ludzi, minister wlaciwy do spraw zdrowia moe poleci Agencji Rezerw Materialowych udostpnienie niezbdnego asortymentu rezerw strategicznych, okrelajc: 1) rodzaj tego asortymentu i jego iloci; 2) organ, na rzecz którego rezerwy strategiczne zostan udostpnione, lub podmiot,
+któremu udostpnione rezerwy strategiczne bd wydane do uycia.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 54/66
+
+1a. Agencja Rezerw Materialowych moe zleci transport udostpnionego asortymentu rezerw strategicznych, o którym mowa w ust. 1, i przekazanie go do podmiotu, o którym mowa w ust. 1 pkt 2.
+1b. Koszty transportu asortymentu, o którym mowa w ust. 1a, s finansowane ze rodków budetu pastwa w oparciu o rednie stawki stosowane w stosunkach danego rodzaju w tym czasie.
+2. Do udostpnienia asortymentu, okrelonego w ust. 1, nie stosuje si przepisów ustawy o rezerwach strategicznych.
+3. Agencja Rezerw Materialowych jest obowizana odtworzy asortyment rezerw strategicznych udostpniony na podstawie ust. 1, w najkrótszym moliwym terminie.
+4. Minister wlaciwy do spraw zdrowia, w celu wykonywania zada okrelonych w niniejszej ustawie, moe naloy na Agencj Rezerw Materialowych obowizek utworzenia, w okrelonym czasie i iloci, rezerw strategicznych asortymentu niezbdnego w celu zapobiegania oraz zwalczania zakae i chorób zakanych u ludzi i utrzymywanie tego asortymentu w rezerwach strategicznych.
+5. W przypadku gdy utworzenie rezerw strategicznych, o których mowa w ust. 4, lub odtworzenie rezerw strategicznych, o których mowa w ust. 3, nie jest moliwe w okrelonym terminie, wlaciwy minister lub minister wlaciwy do spraw zdrowia, w drodze decyzji administracyjnej, zarzdza przejcie na rzecz Skarbu Pastwa danego asortymentu, o którym mowa w ust. 1. Przejmowany asortyment staje si rezerwami strategicznymi w rozumieniu przepisów odrbnych. Decyzja podlega natychmiastowemu wykonaniu z dniem jej ogloszenia w sposób okrelony w ust. 6. Decyzj dorcza si niezwlocznie.
+6. Minister, o którym mowa w ust. 5, podaje do publicznej wiadomoci informacj o wydaniu decyzji, o której mowa w ust. 5, przez ogloszenie w Biuletynie Informacji Publicznej urzdu obslugujcego tego ministra nazwy produktu, wyrobu, rodka, sprztu lub aparatury medycznej, nazwy odpowiednio producenta, importera, eksportera, wytwórcy, dystrybutora, podmiotu odpowiedzialnego, posiadacza pozwolenia albo zezwolenia na handel równolegly oraz jeeli dotyczy: rodzaju opakowania, jego wielkoci i numeru partii.
+7. W przypadku wydania decyzji, o której mowa w ust. 5, dokonuje si zabezpieczenia produktu, wyrobu, rodka, sprztu lub aparatury medycznej.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 55/66
+
+Zabezpieczenie jest finansowane ze rodków budetu pastwa w oparciu o rednie stawki stosowane w stosunkach danego rodzaju.
+8. W przypadku niedoboru produktów leczniczych, rodków spoywczych specjalnego przeznaczenia ywieniowego, wyrobów medycznych lub rodków ochrony osobistej niezbdnych dla pacjentów lub wyposaenia niezbdnego do prowadzenia dzialalnoci, minister wlaciwy do spraw zdrowia poleci wydanie w niezbdnych ilociach tych produktów, rodków, wyposaenia lub wyrobów z Agencji Rezerw Materialowych do podmiotów leczniczych prowadzcych szpitale, stacje sanitarno-epidemiologiczne, apteki ogólnodostpne, punkty apteczne lub domy pomocy spolecznej.
+Art. 46e. Udostpnione z rezerw strategicznych: 1) produkty lecznicze, 2) rodki spoywcze specjalnego przeznaczenia ywieniowego oraz wyroby
+medyczne, jeeli wymagaj przechowywania w szczególnych warunkach ­ s dystrybuowane na zasadach okrelonych w ustawie z dnia 6 wrzenia 2001 r. ­ Prawo farmaceutyczne.
+Art. 46f. 1. Produkty lecznicze, rodki spoywcze specjalnego przeznaczenia ywieniowego, wyroby medyczne, produkty biobójcze oraz rodki ochrony osobistej, które: 1) zostaly udostpnione na podstawie art. 46d ust. 1 lub na podstawie przepisów
+o rezerwach strategicznych, 2) stanowi majtek Skarbu Pastwa na podstawie innej ni przepisy o rezerwach
+strategicznych ­ okrelone w obwieszczeniu, o którym mowa w ust. 2, mog by wydawane pacjentom ze stacji sanitarno-epidemio-logicznych, aptek lub punktów aptecznych nieodplatnie wylcznie na podstawie nr PESEL pacjenta.
+2. Minister wlaciwy do spraw zdrowia moe okreli w obwieszczeniu: 1) wykaz produktów leczniczych, rodków spoywczych specjalnego
+przeznaczenia ywieniowego, wyrobów medycznych, produktów biobójczych i rodków ochrony osobistej, które podlegaj wydaniu w sposób okrelony w ust. 1, oraz dane je identyfikujce;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 56/66
+
+2) ilo produktu leczniczego, rodka spoywczego specjalnego przeznaczenia ywieniowego, wyrobu medycznego, produktu biobójczego i rodka ochrony osobistej, jaki podlega wydaniu w sposób okrelony w ust. 1, na jednego pacjenta w danej jednostce czasu. 3. Osoba wydajca produkty lecznicze, rodki spoywcze specjalnego
+przeznaczenia ywieniowego, wyroby medyczne, produkty biobójcze i rodki ochrony osobistej ma obowizek wyda je, po uprzednim sprawdzeniu w systemie teleinformatycznym udostpnionym przez jednostk podlegl ministrowi wlaciwemu do spraw zdrowia wlaciw w zakresie systemów informacyjnych ochrony zdrowia czy dla pacjenta o danym nr PESEL nie nastpilo ju wydanie produktów, rodków i wyrobów objtych obwieszczeniem, o którym mowa w ust. 2. Ponadto, osoba wydajca jest obowizana do umieszczenia w tym systemie teleinformatycznym informacji o wydaniu dla pacjenta o danym nr PESEL produktów, rodków i wyrobów objtych obwieszczeniem, o którym mowa w ust. 2. W przypadku, gdy s one wydawane osobie innej ni pacjent, odnotowaniu podlega równie nr PESEL tej osoby.
+4. Obwieszczenie, o którym mowa w ust. 2, podlega ogloszeniu w dzienniku urzdowym ministra wlaciwego do spraw zdrowia.
+Art. 46g. Produkty lecznicze, rodki spoywcze specjalnego przeznaczenia ywieniowego, wyroby medyczne, produkty biobójcze oraz rodki ochrony osobistej, które stanowi majtek Skarbu Pastwa na podstawie innej ni przepisy o rezerwach strategicznych, mog by zbywane, przez ministra wlaciwego do spraw zdrowia lub upowanione przez niego podmioty, podmiotom innym ni okrelone w art. 46f.
+Art. 47. 1. Pracownicy podmiotów leczniczych, osoby wykonujce zawody medyczne oraz osoby, z którymi podpisano umowy na wykonywanie wiadcze zdrowotnych, mog by skierowani do pracy przy zwalczaniu epidemii. Do pracy przy zwalczaniu epidemii mog by skierowane take inne osoby, jeeli ich skierowanie jest uzasadnione aktualnymi potrzebami podmiotów kierujcych zwalczaniem epidemii.
+2. Skierowanie do pracy przy zwalczaniu epidemii nastpuje w drodze decyzji. 3. Skierowaniu do pracy nioscej ryzyko zakaenia przy zwalczaniu epidemii nie podlegaj:
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 57/66
+
+1) osoby, które nie ukoczyly 18 lat bd ukoczyly 60 lat; 2) kobiety w ciy; 2a) osoby samotnie wychowujce dziecko w wieku do 18 lat; 2b) osoby wychowujce dziecko w wieku do 14 lat; 2c) osoby wychowujce dziecko z orzeczeniem o niepelnosprawnoci lub
+orzeczeniem o potrzebie ksztalcenia specjalnego; 3) osoby, u których orzeczono czciow lub calkowit niezdolno do pracy; 4) inwalidzi i osoby z orzeczonymi chorobami przewleklymi, na których przebieg
+ma wplyw zakaenie lub zachorowanie na chorob zakan bdc przyczyn epidemii lub orzeczona choroba przewlekla ma wplyw na przebieg lub zachorowanie na chorob zakan; 5) osoby, o których mowa w art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujcych kierownicze stanowiska pastwowe (Dz. U. z 2020 r. poz. 1637), oraz poslowie i senatorowie Rzeczypospolitej Polskiej. 3a. W przypadku gdy dziecko w wieku powyej 14 lat jest wychowywane przez dwoje osób, którym przysluguje wladza rodzicielska, do pracy przy zwalczaniu epidemii moe zosta skierowana wylcznie jedna z nich. 3b. Orzeczenie w sprawie choroby, o której mowa w ust. 3 pkt 4, wydaje lekarz posiadajcy specjalizacj lub tytul specjalisty w dziedzinie medycyny, której dotyczy choroba przewlekla, lub lekarz specjalista w dziedzinie chorób zakanych. 4. Decyzj o skierowaniu do pracy przy zwalczaniu epidemii na terenie województwa, w którym osoba skierowana posiada miejsce pobytu lub jest zatrudniona, wydaje wlaciwy wojewoda, a w razie skierowania do pracy na obszarze innego województwa ­ minister wlaciwy do spraw zdrowia. 5. Od decyzji wojewody przysluguje odwolanie do ministra wlaciwego do spraw zdrowia. 5a. W ramach postpowania w sprawie rozpatrzenia odwolania, o którym mowa w ust. 5, albo wniosku o ponowne rozpatrzenie sprawy: 1) wojewoda moe wystpi do konsultanta wojewódzkiego, 2) minister wlaciwy do spraw zdrowia moe wystpi do konsultanta krajowego ­ z dziedziny medycyny, której dotyczy choroba przewlekla, lub z dziedziny chorób zakanych, celem uzyskania orzeczenia w sprawie choroby, o której mowa w ust. 3 pkt 4.
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 58/66
+
+5b. Orzeczenie wlaciwego konsultanta wojewódzkiego albo wlaciwego konsultanta krajowego z dziedziny medycyny, której dotyczy choroba przewlekla, lub z dziedziny chorób zakanych, o którym mowa w ust. 5a, jest wydawane w terminie 14 dni od dnia otrzymania wniosku.
+6. Wniesienie rodka odwolawczego nie wstrzymuje wykonania decyzji. 6a. Decyzje, o których mowa w ust. 4: 1) mog by przekazywane w kady moliwy sposób zapewniajcy dotarcie decyzji do adresata, w tym ustnie; 2) nie wymagaj uzasadnienia; 3) przekazane w sposób inny ni na pimie, s nastpnie dorczane na pimie po ustaniu przyczyn uniemoliwiajcych dorczenie w ten sposób. 7. Decyzja o skierowaniu do pracy przy zwalczaniu epidemii stwarza obowizek pracy przez okres do 3 miesicy w podmiocie leczniczym lub w innej jednostce organizacyjnej wskazanych w decyzji. 8. Osobie skierowanej do pracy przy zwalczaniu epidemii dotychczasowy pracodawca jest obowizany udzieli urlopu bezplatnego na czas okrelony w decyzji, o której mowa w ust. 2. Okres urlopu bezplatnego zalicza si do okresu pracy, od którego zale uprawnienia pracownicze u tego pracodawcy. 9. Podmiot leczniczy lub jednostka organizacyjna, o której mowa w ust. 7, nawizuj z osob skierowan do pracy stosunek pracy na czas wykonywania okrelonej pracy, na okres nie dluszy ni wskazany w decyzji. 10. Osobie skierowanej do pracy na podstawie decyzji, o której mowa w ust. 2, przysluguje wynagrodzenie zasadnicze w wysokoci nie niszej ni 150% przecitnego wynagrodzenia zasadniczego przewidzianego na danym stanowisku pracy w zakladzie wskazanym w tej decyzji lub w innym podobnym zakladzie, jeeli w zakladzie wskazanym nie ma takiego stanowiska. Wynagrodzenie nie moe by nisze ni wynagrodzenie, które osoba skierowana do pracy przy zwalczaniu epidemii otrzymala w miesicu poprzedzajcym miesic, w którym wydana zostala decyzja o skierowaniu jej do pracy przy zwalczaniu epidemii. 11. Osobie, o której mowa w ust. 10, przysluguje zwrot kosztów przejazdu, zakwaterowania i wyywienia, na zasadach okrelonych w przepisach o ustalaniu oraz wysokoci nalenoci przyslugujcej pracownikom pastwowych jednostek z tytulu podróy slubowych na obszarze kraju. Zwrot kosztów z tytulu zakwaterowania lub
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 59/66
+
+wyywienia nie przysluguje w przypadku zapewnienia w miejscu wykonywania pracy bezplatnego zakwaterowania lub wyywienia.
+12. Koszty wiadcze zdrowotnych udzielanych w zwizku ze zwalczaniem epidemii oraz koszty, o których mowa w ust. 10 i 11, s finansowane z budetu pastwa z czci, której dysponentem jest wojewoda wlaciwy ze wzgldu na miejsce udzielania wiadcze.
+13. Przez czas trwania obowizku, o którym mowa w ust. 7, z osob skierowan do pracy przy zwalczaniu epidemii nie moe by rozwizany dotychczasowy stosunek pracy ani nie moe by dokonane wypowiedzenie umowy o prac, chyba e istnieje podstawa do rozwizania umowy o prac bez wypowiedzenia z winy pracownika albo w przypadku zmiany lub uchylenia decyzji. Przepisy art. 63­67 ustawy z dnia 26 czerwca 1974 r. ­ Kodeks pracy (Dz. U. z 2020 r. poz. 1320) stosuje si odpowiednio.
+Art. 47a. W okresie ogloszenia stanu zagroenia epidemicznego lub stanu epidemii, przepisy art. 95­99 ustawy z dnia 15 kwietnia 2011 r. o dzialalnoci leczniczej (Dz. U. z 2020 r. poz. 295, 567 i 1493) stosuje si do pracowników wykonujcych zawód medyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 8 czerwca 2017 r. o sposobie ustalania najniszego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych (Dz. U. z 2020 r. poz. 830) zatrudnionych w podmiotach leczniczych udzielajcych wiadcze przez cal dob.
+Art. 48. Pracownikom podmiotów leczniczych oraz innym osobom podejmujcym na zasadach okrelonych w niniejszej ustawie dzialania w celu zapobiegania i zwalczania chorób zakanych i zakae u ludzi przysluguje ochrona prawna nalena funkcjonariuszowi publicznemu.
+Rozdzial 8a
+Kary pienine
+Art. 48a. 1. Kto w stanie zagroenia epidemicznego lub stanu epidemii nie stosuje si do ustanowionych na podstawie art. 46 lub art. 46b nakazów, zakazów lub ogranicze, o których mowa w: 1) art. 46 ust. 4 pkt 1 lub w art. 46b pkt 5 i 9­12, podlega karze pieninej
+w wysokoci od 5000 zl do 30 000 zl;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 60/66
+
+2) art. 46 ust. 4 pkt 2 lub w art. 46b pkt 3, podlega karze pieninej w wysokoci od 10 000 zl do 30 000 zl;
+3) art. 46 ust. 4 pkt 3­5 lub w art. 46b pkt 2 i 8, podlega karze pieninej w wysokoci od 10 000 zl do 30 000 zl;
+4) art. 46 ust. 4 pkt 6, podlega karze pieninej w wysokoci od 5000 zl do 10 000 zl;
+5) art. 46 ust. 4 pkt 7 lub w art. 46b pkt 4, podlega karze pieninej w wysokoci od 5000 zl do 10 000 zl. 2. Kto w stanie zagroenia epidemicznego lub stanu epidemii nie wykonuje
+decyzji, o których mowa w art. 47 ust. 4, podlega karze pieninej w wysokoci od 5000 zl do 30 000 zl.
+3. Kary pienine, o których mowa w: 1) ust. 1, wymierza, w drodze decyzji administracyjnej, pastwowy powiatowy
+inspektor sanitarny i pastwowy graniczny inspektor sanitarny; 2) ust. 2, wymierza odpowiednio wojewoda albo minister wlaciwy do spraw
+zdrowia. 4. Decyzja w sprawie kary pieninej podlega natychmiastowemu wykonaniu z dniem jej dorczenia. Decyzj t dorcza si niezwlocznie. 5. W przypadku ponownego popelnienia takiego samego czynu, o którym mowa w ust. 1 lub 2, wysoko kary pieninej: 1) jest nie nisza od wysokoci kary pieninej wymierzonej poprzednio za takie naruszenie; 2) ustala si, dokonujc powikszenia o 25% wysokoci kary pieninej ustalonej zgodnie z pkt 1. 6. Egzekucja naloonych kar pieninych nastpuje w trybie przepisów o postpowaniu egzekucyjnym w administracji. 7. Kary pienine stanowi dochód budetu pastwa i s wplacane w terminie 7 dni od dnia wydania decyzji. W przypadku kar, o których mowa w ust. 1, s one wplacane na rachunek bankowy wlaciwej stacji sanitarno-epidemiologicznej. 8. W zakresie nieuregulowanym w ustawie do kar pieninych stosuje si odpowiednio przepisy dzialu III ustawy z dnia 29 sierpnia 1997 r. ­ Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325 i 1423).
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 61/66
+
+Rozdzial 9
+Przepisy karne
+Art. 49. Kto, nie bdc uprawnionym, przywozi, przewozi, przekazuje, namnaa, wywozi, przechowuje, rozprzestrzenia, nabywa, pomaga w zbyciu biologicznych czynników chorobotwórczych, lub wykorzystujc te czynniki w inny sposób, stwarza zagroenie dla zdrowia publicznego, podlega karze pozbawienia wolnoci od 3 miesicy do lat 5.
+Art. 50. Kto: 1) wbrew obowizkowi, o którym mowa w art. 16 ust. 1, nie wdraa lub nie stosuje
+procedur zapewniajcych ochron przed zakaeniami oraz chorobami zakanymi, 2) wbrew obowizkom, o których mowa w art. 22 ust. 1 i 2, nie przestrzega wymaga higieniczno-sanitarnych, 3) wbrew obowizkowi przeciwdzialania szerzeniu si zakae szpitalnych, nie podejmuje dziala okrelonych w art. 14 ust. 1 i 2 ­ podlega karze grzywny.
+Art. 51. Kto: 1) nie bdc uprawnionym, przeprowadza szczepienia ochronne, 2) wbrew obowizkowi prowadzenia dokumentacji medycznej dotyczcej
+szczepie ochronnych, nie dokonuje wpisu szczepienia, nie wystawia zawiadczenia o wykonaniu szczepienia lub nie prowadzi dokumentacji medycznej w tym zakresie lub prowadzi j nierzetelnie, 3) wbrew obowizkowi nie zawiadamia pacjenta lub osoby sprawujcej prawn piecz nad osob maloletni lub bezradn albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, o obowizku poddania si obowizkowym szczepieniom ochronnym lub nie informuje o ochronnych szczepieniach zalecanych ­ podlega karze grzywny.
+Art. 52. Kto: 1) wbrew obowizkowi nie poucza pacjenta, osoby sprawujcej prawn piecz nad
+osob maloletni lub bezradn albo opiekuna faktycznego w rozumieniu art. 3
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 62/66
+
+ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, o rodkach ostronoci zapobiegajcych przeniesieniu zakaenia na inne osoby lub o ewentualnym obowizku wynikajcym z art. 6, 2) wbrew obowizkowi nie informuje zakaonego o koniecznoci zgloszenia si do lekarza jego partnera lub partnerów seksualnych, 3) wbrew obowizkowi, o którym mowa w art. 21 ust. 1, nie zglasza niepodanego odczynu poszczepiennego, 4) wbrew obowizkowi, o którym mowa w art. 27 ust. 1 lub 2, nie zglasza zakaenia, zachorowania na chorob zakan lub zgonu z powodu zakaenia lub choroby zakanej albo ich podejrzenia, 5) wbrew obowizkowi, o którym mowa w art. 29 ust. 1, nie zglasza wyniku badania w kierunku biologicznych czynników chorobotwórczych, które wywoluj zakaenie lub chorob zakan ­ podlega karze grzywny.
+Art. 53. Kto nie wykonuje decyzji o skierowaniu do pracy przy zapobieganiu oraz zwalczaniu epidemii, wydanej na podstawie art. 47, podlega karze grzywny.
+Art. 54. W sprawach o czyny, o których mowa w art. 50­53, orzekanie nastpuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. ­ Kodeks postpowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956 i 1423).
+Rozdzial 10
+Zmiany w przepisach obowizujcych, przepisy przejciowe i kocowe
+Art. 55­63. (pominite)
+Art. 64. Ilekro w obowizujcych przepisach jest mowa o ustawie o chorobach zakanych i zakaeniach, naley przez to rozumie niniejsz ustaw.
+Art. 65. Badania laboratoryjne osób, o których mowa w art. 6 ust. 1, mog przeprowadza laboratoria, o których mowa w art. 7 ust. 4, które nie uzyskaly akredytacji na podstawie ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodnoci i nadzoru rynku, jednak nie dluej ni do dnia 31 grudnia 2009 r.
+Art. 66. (pominity)
+Art. 67. Do dnia 31 grudnia 2015 r.:
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 63/66
+
+1) przewodniczcym zespolu kontroli zakae szpitalnych moe by lekarz, który posiada specjalizacj inn ni okrelona na podstawie art. 15 ust. 5 oraz ukoczyl kurs specjalistyczny z zakresu epidemiologii i kontroli zakae szpitalnych;
+2) w sklad zespolu kontroli zakae szpitalnych mog wchodzi pielgniarki i polone, które do tego dnia zostaly zatrudnione na stanowisku pielgniarki epidemiologicznej oraz ukoczyly kurs kwalifikacyjny z zakresu pielgniarstwa epidemiologicznego;
+3) szczepienia ochronne mog wykonywa lekarze lub felczerzy, pielgniarki, polone i higienistki szkolne, nieposiadajcy kwalifikacji okrelonych na podstawie art. 17 ust. 10 pkt 3, o ile posiadaj 2,5-letni praktyk w zakresie przeprowadzania szczepie ochronnych.
+Art. 68. (pominity)
+Art. 69. Traci moc ustawa z dnia 6 wrzenia 2001 r. o chorobach zakanych i zakaeniach (Dz. U. poz. 1384, z pón. zm.1)).
+Art. 70. Ustawa wchodzi w ycie z dniem 1 stycznia 2009 r., z wyjtkiem art. 9, który wchodzi w ycie z dniem 1 stycznia 2010 r.
+
+1) Zmiany wymienionej ustawy zostaly ogloszone w Dz. U. z 2003 r. poz. 391 i 1938, z 2004 r. poz. 959, 1808 i 2135 oraz z 2006 r. poz. 1600.
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 64/66
+
+Zalcznik do ustawy z dnia 5 grudnia 2008 r.
+WYKAZ ZAKAE I CHORÓB ZAKANYCH
+1) (uchylony) 2) bblowica i wgrzyca; 3) biegunki o etiologii infekcyjnej lub nieustalonej u dzieci do lat 2; 4) blonica; 5) borelioza z Lyme; 6) bruceloza; 6a) Chikungunya; 7) chlamydiozy i inne zakaenia nierzeczkowe ukladu moczoplciowego; 8) cholera; 9) choroba Creutzfeldta-Jakoba i inne encefalopatie gbczaste; 9a) choroba wirusowa Ebola (EVD); 10) czerwonka bakteryjna; 11) dur brzuszny i zakaenia paleczkami durowymi; 12) dur wysypkowy (w tym choroba Brill-Zinssera) i inne riketsjozy; 13) dury rzekome A, B, C i zakaenia paleczkami rzekomodurowymi; 14) duma; 15) giardioza; 16) gorczka Q; 17) grulica i inne mikobakteriozy; 18) grypa (w tym grypa ptaków u ludzi); 19) inwazyjne zakaenia Neisseria meningitidis; 20) inwazyjne zakaenia Streptococcus pneumoniae; 21) inwazyjne zakaenia Streptococcus pyogenes; 22) inwazyjne zakaenie Haemophilus influenzae; 23) jersinioza; 24) kampylobakterioza; 25) kila; 26) kryptosporydioza; 27) krztusiec; 28) legioneloza;
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 65/66
+
+29) leptospirozy; 30) listerioza; 31) nagminne zapalenie przyusznic (winka); 32) nosacizna; 33) odra; 34) ornitozy; 35) ospa prawdziwa; 36) ospa wietrzna; 37) ostre nagminne poraenie dziecice (poliomyelitis) oraz inne ostre poraenia
+wiotkie, w tym zespól Guillaina-Barrégo; 38) plonica; 39) pryszczyca; 40) róyczka i zespól róyczki wrodzonej; 41) rzeczka; 42) salmonelozy inne ni wywolane przez paleczki Salmonella Typhi i Salmonella
+Paratyphi A, B, C oraz zakaenia przez nie wywolane; 43) tec; 44) toksoplazmoza wrodzona; 45) tularemia; 46) wglik; 47) wirusowe gorczki krwotoczne, w tym ólta gorczka; 48) wirusowe zapalenia wtroby (A, B, C, inne) oraz zakaenia wywolane przez
+wirusy zapalenia wtroby; 49) (uchylony) 50) wlonica; 51) wcieklizna; 52) zakaenia oldkowo-jelitowe oraz zatrucia pokarmowe o etiologii infekcyjnej
+lub nieustalonej; 53) zakaenia szpitalne oraz zakaenia biologicznymi czynnikami
+chorobotwórczymi opornymi na antybiotyki kluczowe dla leczenia; 54) zakaenia wirusem zachodniego Nilu; 55) zakaenie ludzkim wirusem niedoboru odpornoci (HIV) i zespól nabytego
+niedoboru odpornoci (AIDS);
+
+30.10.2020
+
+©Kancelaria Sejmu
+
+s. 66/66
+
+55a) zapalenia opon mózgowo-rdzeniowych lub mózgu o etiologii infekcyjnej lub nieustalonej;
+56) zatrucie jadem kielbasianym (botulizm); 57) zespól hemolityczno-mocznicowy i inne postaci zakaenia werotoksycznymi
+paleczkami Escherichia coli (STEC/VTEC); 58) zespoly cikiej ostrej niewydolnoci oddechowej (SARI) lub innej
+niewydolnoci narzdowej o etiologii infekcyjnej lub nieustalonej; 59) zimnica (malaria).
+
+30.10.2020
+
+

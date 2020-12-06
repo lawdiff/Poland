@@ -19,6 +19,12 @@ Track changes in Polish law.
 - https://stackoverflow.com/questions/4291859/dumping-pdf-document-pdf-to-text
 - https://stackoverflow.com/questions/25665/python-module-for-converting-pdf-to-text
 
+### pdftotext D20081570Lj.pdf
+
+`pdftotext D20081570Lj.pdf`
+
+Resulted in loss of Polish characters.
+
 ## Inspiration
 
 Inspired by Rafał Kiełbus' post:
