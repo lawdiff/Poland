@@ -2,6 +2,18 @@
 
 Track changes in Polish law.
 
+## Source
+
+- http://isap.sejm.gov.pl/
+
+## Tekst jednolity a ujednolicony
+
+- https://isap.sejm.gov.pl/isap.nsf/help.xsp
+- https://pl.wikipedia.org/wiki/Tekst_jednolity
+- https://pl.quora.com/Jaka-jest-r%C3%B3%C5%BCnica-mi%C4%99dzy-tekstem-og%C5%82oszonym-a-tekstem-ujednoliconym
+- http://praworzeki.eko-unia.org.pl/news.php?dzial=2&kat=14&art=9#:~:text=Tekst%20ujednolicony%20aktu%20prawnego%2C%20jest,oraz%20dodano%20przepisy%20nowo%20uchwalone.
+- http://haustechnik.pl/pisemny_isap.php
+
 ## Inspiration
 
 Inspired by Rafał Kiełbus' post:
