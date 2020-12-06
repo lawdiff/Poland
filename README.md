@@ -25,6 +25,13 @@ Track changes in Polish law.
 
 Resulted in loss of Polish characters.
 
+## Art. 48a podmieniony
+
+- Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi https://www.gazetaprawna.pl/amp/1497623,sejm-przez-pomylke-usunal-kary-sanepidowskie-za-lamanie-obostrzen-epidemicznych.html
+- http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001845
+- Ustawa z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002112
+- Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341570
+
 ## Inspiration
 
 Inspired by Rafał Kiełbus' post:
