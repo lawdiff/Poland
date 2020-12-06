@@ -2,6 +2,8 @@
 
 Track changes in Polish law.
 
+[List of diffs](/DIFFS.md).
+
 ## Source
 
 - http://isap.sejm.gov.pl/
