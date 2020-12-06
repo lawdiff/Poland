@@ -14,6 +14,11 @@ Track changes in Polish law.
 - http://praworzeki.eko-unia.org.pl/news.php?dzial=2&kat=14&art=9#:~:text=Tekst%20ujednolicony%20aktu%20prawnego%2C%20jest,oraz%20dodano%20przepisy%20nowo%20uchwalone.
 - http://haustechnik.pl/pisemny_isap.php
 
+## PDF to text
+
+- https://stackoverflow.com/questions/4291859/dumping-pdf-document-pdf-to-text
+- https://stackoverflow.com/questions/25665/python-module-for-converting-pdf-to-text
+
 ## Inspiration
 
 Inspired by Rafał Kiełbus' post:
